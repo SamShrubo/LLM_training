@@ -2,6 +2,31 @@ import pandas as pd
 import os.path as op
 import os
 
+def filetodf(readFolder, readFile):
+    filePath = readFolder + readFile
+    outFileName = "dataframe.csv"
+
+    # open read file
+    fd = open(filePath)
+    # read text
+    text = fd.readlines()
+    newStructure = {'text' : [text]}
+
+    if not (op.isfile(outFileName)):
+        # make dataframe
+        print("Creating dataframe...")
+        df = pd.DataFrame(newStructure)
+        print("Updating with file...")
+    else:
+        # read dataframe
+        df = pd.read_csv(outFileName)
+        df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
+        print("Updating with file...")
+
+    # update csv file
+    df.to_csv(outFileName, index=False)
+    return
+
 uin = input("What would you like to do?\nC : clear dataframe\nA : add to dataframe\nQ : quit builder\n.\n.\n.\n>>")
 
 if uin == "C" or uin == "c":
@@ -16,35 +41,39 @@ if uin == "Q" or uin == "q":
 folderPath = input("Instructions - You will first select a path to the folder your files are in\nThen you will select each file in the folder you want to read\n.\n.\n.\nWhat is your folder path: ")
 while True:
     # nf : read new file\nnd : change folder path
-    uin2 = input("What would you like to do?\nCommands (case sensitive):\nnf : read new file\nnd : change folder path\nq : quit\n.\n.\n.\n>> ")
+    uin2 = input("What would you like to do?\nCommands (case sensitive):\nnf : read new file\nraf : read all files in folder\nnd : change folder path\nq : quit\n.\n.\n.\n>> ")
     if uin2 == "q":
         print("exiting...")
         exit()
     if uin2 == "nf":
         fileName = input("What is the name of your file: ")
+        filetodf(folderPath, fileName)
+    elif uin2 == "raf":
+        for fileNames in os.listdir(folderPath):
+            filetodf(folderPath, fileNames)
     elif uin2 == "nd":
         folderPath = input("What is your folder path: ")
         continue
-        # "RISC_V/System_verilog/Cores/RV12/Logic/riscv_bu.sv"
-    filePath = folderPath + fileName
-    outFileName = "dataframe.csv"
+        # "RISC_V/System_verilog/Microprocessors/RV12/Logic/riscv_bu.sv"
+    # filePath = folderPath + fileName
+    # outFileName = "dataframe.csv"
 
-    # open read file
-    fd = open(filePath)
-    # read text
-    text = fd.readlines()
-    newStructure = {'text' : [text]}
+    # # open read file
+    # fd = open(filePath)
+    # # read text
+    # text = fd.readlines()
+    # newStructure = {'text' : [text]}
 
-    if not (op.isfile(outFileName)):
-        # make dataframe
-        df = pd.DataFrame(newStructure)
-        print("Creating...")
-    else:
-        # read dataframe
-        df = pd.read_csv(outFileName)
-        df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
-        print("Updating...")
+    # if not (op.isfile(outFileName)):
+    #     # make dataframe
+    #     df = pd.DataFrame(newStructure)
+    #     print("Creating...")
+    # else:
+    #     # read dataframe
+    #     df = pd.read_csv(outFileName)
+    #     df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
+    #     print("Updating...")
 
-    # update csv file
-    df.to_csv(outFileName, index=False)
+    # # update csv file
+    # df.to_csv(outFileName, index=False)
 
