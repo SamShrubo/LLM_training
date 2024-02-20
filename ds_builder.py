@@ -48,10 +48,9 @@ def deletedf(dfName="dataframe.csv"):
 def parseJSON(nameJSON, dfName="dataframe.csv"):
     # read dataframe
     df_code = pd.read_csv(dfName)
-
     # open output .json (this is the code from Shailja)
     print("Making JSON...")
-    with open(f'{nameJSON}.json','a') as f:
+    with open(nameJSON,'a') as f:
         for row in df_code['text'].values:
             print("Adding row...")
             # adds dictionary
@@ -97,7 +96,7 @@ while True:
     elif uin == "MDS" or uin == "mds":
 
         nameDF = input("What is the name/path of your dataframe?\n.\n.\n.\n(ex. .\\dataframe.csv)>> ")
-        JSONname = input("What would you like to name your JSON dataset (do not include .json in the name)?\n.\n.\n.\n(ex. New_Dataset)>> ")
+        JSONname = input("What is/will be the name/path your JSON dataset?\n.\n.\n.\n(ex. .\\New_Dataset.json)>> ")
         parseJSON(JSONname, nameDF)
 
     elif uin == "help" or uin == "HELP":
