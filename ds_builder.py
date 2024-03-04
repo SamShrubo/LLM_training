@@ -7,6 +7,9 @@ import sys
 
 # read file into dataframe.csv
 def filetodf(readFolder, readFile, dataframeName="dataframe.csv"):
+    # max character length of each entry
+    max_length = 20000
+
     if readFolder[-1] != "\\":
         filePath = readFolder + "\\" + readFile
     else:
@@ -17,22 +20,31 @@ def filetodf(readFolder, readFile, dataframeName="dataframe.csv"):
     fd = open(filePath)
     # read text
     text = fd.readlines()
-    newStructure = {'text' : [text]}
+    text = "".join(text)
+    # divide text every 20k characters
+    parts = len(text) // (max_length) + (1 if len(text) % max_length > 0 else 0)
 
-    if not (op.isfile(outFileName)):
-        # make dataframe with new data
-        print(f"Creating dataframe {outFileName}...")
-        df = pd.DataFrame(newStructure)
-        print(f"Updating {outFileName} with file...")
-    else:
-        # read dataframe
-        df = pd.read_csv(outFileName)
-        # write new data
-        df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
-        print(f"Updating {outFileName} with file...")
+    # print(parts)
+    
+    for part in range(parts):
+        start_index = part * max_length
+        end_index = start_index + max_length
 
-    # update csv file
-    df.to_csv(outFileName, index=False)
+        newStructure = {'text' : [text[start_index:end_index]]}
+
+        if not (op.isfile(outFileName)):
+            # make dataframe with new data
+            print(f"Creating dataframe {outFileName}...")
+            df = pd.DataFrame(newStructure)
+            print(f"Updating {outFileName} with file...")
+        else:
+            # read dataframe
+            df = pd.read_csv(outFileName)
+            # write new data
+            df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
+            print(f"Updating {outFileName} with file...")
+        # update csv file
+        df.to_csv(outFileName, index=False)
     
     return
 
