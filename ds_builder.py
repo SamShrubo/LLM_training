@@ -17,7 +17,7 @@ def filetodf(readFolder, readFile, dataframeName="dataframe.csv"):
     outFileName = dataframeName
 
     # open read file
-    fd = open(filePath)
+    fd = open(filePath, encoding='utf-8', errors="ignore")
     # read text
     text = fd.readlines()
     text = "".join(text)
