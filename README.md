@@ -6,4 +6,6 @@ To run the builder script use : python3 [path]\ds_builder.py
 
 The RISC_V folder contains the Verilog files used to build the dataset
 
-TODO: parse: SSRV rsd
+The datasets folder contains all parsed dataset .JSON files.
+
+TODO:
