@@ -1,0 +1,3304 @@
+Name: riscv-steel
+Owner: riscv-steel
+Size (KB): 199252
+URL: https://github.com/riscv-steel/riscv-steel
+Description: Free collection of hardware modules written in Verilog for FPGAs and embedded systems. 
+Repo-Count: 1
+
+Name: Quafu
+Owner: gzzyyxh
+Size (KB): 514
+URL: https://github.com/gzzyyxh/Quafu
+Description: A small SoC with a pipeline 32-bit RISC-V CPU.
+Repo-Count: 2
+
+Name: RISu064
+Owner: zephray
+Size (KB): 4969
+URL: https://github.com/zephray/RISu064
+Description: Dual-issue RV64IM processor for fun & learning
+Repo-Count: 3
+
+Name: RISC-V-TensorCore
+Owner: stillwater-sc
+Size (KB): 146
+URL: https://github.com/stillwater-sc/RISC-V-TensorCore
+Description: Transactional Verilog design and Verilator Testbench for a RISC-V TensorCore Vector co-processor for reproducible linear algebra
+Repo-Count: 4
+
+Name: serv_soc
+Owner: DaveBerkeley
+Size (KB): 43
+URL: https://github.com/DaveBerkeley/serv_soc
+Description: SoC based on SERV, Olof Kindgren's bit-serial RISC-V processor. Provides Execute in Place (XiP) from Flash.
+Repo-Count: 5
+
+Name: xoro
+Owner: ZiCog
+Size (KB): 333
+URL: https://github.com/ZiCog/xoro
+Description: A picorv32 RISC-V processor with some very simple memory and peripherals. For Terasic DE-0 Nano
+Repo-Count: 6
+
+Name: RISC-V-Processor
+Owner: MMujtabaRoohani
+Size (KB): 225
+URL: https://github.com/MMujtabaRoohani/RISC-V-Processor
+Description: A verilog based 5-stage pipelined RISC-V Processor code.
+Repo-Count: 7
+
+Name: mystic_riscv64
+Owner: muhammedkocaoglu
+Size (KB): 1088
+URL: https://github.com/muhammedkocaoglu/mystic_riscv64
+Description: 64-bit RISC-V processor
+Repo-Count: 8
+
+Name: Computer-Architecture-Course-Projects-S2023
+Owner: MobinaMhr
+Size (KB): 10286
+URL: https://github.com/MobinaMhr/Computer-Architecture-Course-Projects-S2023
+Description: A Verilog-based implementation of  Depth-First Search (DFS) algorithm and  RISC-V processor. The RISC-V processor is uniquely crafted in three distinct architectures, namely Single-Cycle, Multi-Cycle, and Pipeline.
+Repo-Count: 9
+
+Name: RISC_V_Single_Cycle_Processor
+Owner: govardhnn
+Size (KB): 76
+URL: https://github.com/govardhnn/RISC_V_Single_Cycle_Processor
+Description: My implementation of the RISC-V Single Cycle Processor, based on the Textbook - Digital Design and Computer Architecture: RISC-V Edition by Sarah Harris and David Harris
+Repo-Count: 10
+
+Name: Minor-Project-2023-RISC-V-processor
+Owner: SudeepJoshi22
+Size (KB): 5317
+URL: https://github.com/SudeepJoshi22/Minor-Project-2023-RISC-V-processor
+Description: Verilog HDL code and documentation for pipelined RISC-V processors designed as a minor project by a team of 4. Includes testbench files, documentation, and sample programs. Completed as part of our 6th semester coursework.
+Repo-Count: 11
+
+Name: Computer-Architecture-Course-Projects-S2023
+Owner: Shahriar-0
+Size (KB): 13898
+URL: https://github.com/Shahriar-0/Computer-Architecture-Course-Projects-S2023
+Description: Verilog implementation of a DFS search and RISC-V processor in Single-Cycle, Multi-Cycle and Pipeline
+Repo-Count: 12
+
+Name: Sail-RV32I-common
+Owner: physical-computation
+Size (KB): 169
+URL: https://github.com/physical-computation/Sail-RV32I-common
+Description: Common files for the Sail RISC-V processor.
+Repo-Count: 13
+
+Name: processor-ci
+Owner: LSC-Unicamp
+Size (KB): 945
+URL: https://github.com/LSC-Unicamp/processor-ci
+Description: CI/CD for RISC-V Cores
+Repo-Count: 14
+
+Name: RISC-V-Processor
+Owner: ishaan40
+Size (KB): 26006
+URL: https://github.com/ishaan40/RISC-V-Processor
+Description: A 5-stage pipelined single-core processor with support for M extension prefetching, and 2-level set-associative cache. 
+Repo-Count: 15
+
+Name: scarv-soc
+Owner: scarv
+Size (KB): 3085
+URL: https://github.com/scarv/scarv-soc
+Description: SCARV: a side-channel hardened RISC-V platform
+Repo-Count: 16
+
+Name: RV32E201X
+Owner: abdelazeem201
+Size (KB): 21541
+URL: https://github.com/abdelazeem201/RV32E201X
+Description: RV32E201X is a 5-stage pipelined 32-bit RISC-V processor core.
+Repo-Count: 17
+
+Name: RVSP
+Owner: fpelogia
+Size (KB): 19347
+URL: https://github.com/fpelogia/RVSP
+Description: RISC V based Simple Processor
+Repo-Count: 18
+
+Name: RISC-V_Processor
+Owner: ChetanyaKatara
+Size (KB): 55
+URL: https://github.com/ChetanyaKatara/RISC-V_Processor
+Description: A 32-bit pipelined processor based on RISC-V instruction set architecture.
+Repo-Count: 19
+
+Name: RISC-V_GPU
+Owner: amrkhalid-star902
+Size (KB): 171
+URL: https://github.com/amrkhalid-star902/RISC-V_GPU
+Description: An open source Graphics Processing Unit (GPU) based on RISC-V architecture
+Repo-Count: 20
+
+Name: MIPS
+Owner: ntsdwkr
+Size (KB): 1147
+URL: https://github.com/ntsdwkr/MIPS
+Description: Single Cycle MIPS (RISC) Processor
+Repo-Count: 21
+
+Name: RISC_V_Model_1
+Owner: gbalaratnaswamy
+Size (KB): 315
+URL: https://github.com/gbalaratnaswamy/RISC_V_Model_1
+Description: This repo is implementation of 32 bit RISC -V based processor in verilog with 5 stage pipelining
+Repo-Count: 22
+
+Name: RISC_V_Processor
+Owner: elec-tra
+Size (KB): 45329
+URL: https://github.com/elec-tra/RISC_V_Processor
+Description: Design of RISC V Processor
+Repo-Count: 23
+
+Name: verilog-pipeline-processor
+Owner: RainyMagician
+Size (KB): 6370
+URL: https://github.com/RainyMagician/verilog-pipeline-processor
+Description: RISC V pipeline processor in verilog
+Repo-Count: 24
+
+Name: riscv-pipelined
+Owner: jsmendaros
+Size (KB): 14
+URL: https://github.com/jsmendaros/riscv-pipelined
+Description: Pipelined RISC-V 64-bit processor implementation in Verilog
+Repo-Count: 25
+
+Name: Cs-385-Semester-Project
+Owner: Cambrian34
+Size (KB): 5114
+URL: https://github.com/Cambrian34/Cs-385-Semester-Project
+Description: 16-bit 5 stage pipelined Mips processor
+Repo-Count: 26
+
+Name: HW-Design-Team-Project
+Owner: HaloSense
+Size (KB): 3358
+URL: https://github.com/HaloSense/HW-Design-Team-Project
+Description: Repository for a course project: Processor design based on RISC-V
+Repo-Count: 27
+
+Name: RISC-V
+Owner: arul2810
+Size (KB): 97
+URL: https://github.com/arul2810/RISC-V
+Description: RISC-V Processor
+Repo-Count: 28
+
+Name: Simple_Processor
+Owner: Shiva9361
+Size (KB): 14
+URL: https://github.com/Shiva9361/Simple_Processor
+Description: Verilog implementation of a RISC-V processor with a subset of RISC-V instructions
+Repo-Count: 29
+
+Name: RISC-V
+Owner: UmerSoftwares
+Size (KB): 10
+URL: https://github.com/UmerSoftwares/RISC-V
+Description: RISC-V Processor Project
+Repo-Count: 30
+
+Name: riscy
+Owner: segf00lt
+Size (KB): 22
+URL: https://github.com/segf00lt/riscy
+Description: A RISC-V processor
+Repo-Count: 31
+
+Name: RaptorV
+Owner: rportocarrero
+Size (KB): 42
+URL: https://github.com/rportocarrero/RaptorV
+Description: RISC-V Processor Core
+Repo-Count: 32
+
+Name: RISCV-SingleCycle-Processor
+Owner: DevilSmith
+Size (KB): 1186
+URL: https://github.com/DevilSmith/RISCV-SingleCycle-Processor
+Description: Verilog RISC-V Single Cycle processor
+Repo-Count: 33
+
+Name: risc-v-processor
+Owner: pastchick3
+Size (KB): 2090
+URL: https://github.com/pastchick3/risc-v-processor
+Description: A simple RISC-V processor for learning.
+Repo-Count: 34
+
+Name: Venture-RISC-V
+Owner: Derpanieux
+Size (KB): 25
+URL: https://github.com/Derpanieux/Venture-RISC-V
+Description: A Verilog implemented RISC-V processor
+Repo-Count: 35
+
+Name: RISC-V
+Owner: iBreakEverything
+Size (KB): 312
+URL: https://github.com/iBreakEverything/RISC-V
+Description: RISC-V processor written in verilog
+Repo-Count: 36
+
+Name: embark-rv
+Owner: bonanyan
+Size (KB): 4819
+URL: https://github.com/bonanyan/embark-rv
+Description: Embark RISC-V: A Step-By-Step Tutorial for Building RISC-V Processor 
+Repo-Count: 37
+
+Name: RISC-V_Pipelined_Processor
+Owner: Elijah-Ye
+Size (KB): 3647
+URL: https://github.com/Elijah-Ye/RISC-V_Pipelined_Processor
+Description: Simple 5-stage RISC-V Processor with some advance features
+Repo-Count: 38
+
+Name: risc-v-processor
+Owner: nasir-azeemi
+Size (KB): 10
+URL: https://github.com/nasir-azeemi/risc-v-processor
+Description: None
+Repo-Count: 39
+
+Name: RISC-V-processor
+Owner: AmirhosseinChami
+Size (KB): 725
+URL: https://github.com/AmirhosseinChami/RISC-V-processor
+Description: This is a Single Cycle RISC-V processor implemented in verilog
+Repo-Count: 40
+
+Name: processor_architecture_RISCV
+Owner: agirones
+Size (KB): 17560
+URL: https://github.com/agirones/processor_architecture_RISCV
+Description: Lab project for PA subject. Simple verilog implementation of a risc-v pipeline.
+Repo-Count: 41
+
+Name: RISC-VI-Processor-Verilog
+Owner: DopeBiscuit
+Size (KB): 1577
+URL: https://github.com/DopeBiscuit/RISC-VI-Processor-Verilog
+Description: This project includes my implementation of the RISC-V processor architecure using Verilog, it supports number of insturctions from various types like I-type, R-type, J-type, S-type, B-type
+Repo-Count: 42
+
+Name: RISC-V-Processor-2
+Owner: tomeh2
+Size (KB): 38565
+URL: https://github.com/tomeh2/RISC-V-Processor-2
+Description: None
+Repo-Count: 43
+
+Name: Pipelined-RISC-V-Processor
+Owner: islameehassan
+Size (KB): 4079
+URL: https://github.com/islameehassan/Pipelined-RISC-V-Processor
+Description: A fully pipelined risc-v processor implemented in verilog and tested on an FPGA board
+Repo-Count: 44
+
+Name: ReisenCore-RISC-V-Processor
+Owner: AndrewJones-PSU
+Size (KB): 20
+URL: https://github.com/AndrewJones-PSU/ReisenCore-RISC-V-Processor
+Description: A simple RISC-V processor implementation targeted for the Mimas A7 Development Board
+Repo-Count: 45
+
+Name: Single-Cycle-RISC-V-Processor
+Owner: BatBlob
+Size (KB): 85
+URL: https://github.com/BatBlob/Single-Cycle-RISC-V-Processor
+Description: None
+Repo-Count: 46
+
+Name: Single-Cycle-RISC-V-Processor
+Owner: q-datum
+Size (KB): 15
+URL: https://github.com/q-datum/Single-Cycle-RISC-V-Processor
+Description: RV32I architecture implemented in Verilog
+Repo-Count: 47
+
+Name: riscv-singlecycle
+Owner: jsmendaros
+Size (KB): 14
+URL: https://github.com/jsmendaros/riscv-singlecycle
+Description: Single-cycle RISC-V 64-bit processor implementation in Verilog
+Repo-Count: 48
+
+Name: single-cycle-riscv
+Owner: Adityasrinivas24
+Size (KB): 12
+URL: https://github.com/Adityasrinivas24/single-cycle-riscv
+Description: Single-cycle RISC-V processor in verilog, supporting the RV32I ISA
+Repo-Count: 49
+
+Name: MimasA7-RISC-V-Processor
+Owner: mfkiwl
+Size (KB): 33
+URL: https://github.com/mfkiwl/MimasA7-RISC-V-Processor
+Description: None
+Repo-Count: 50
+
+Name: RISC_V_UART
+Owner: Hafsa1918
+Size (KB): 22
+URL: https://github.com/Hafsa1918/RISC_V_UART
+Description: This repository contains the UART interface with RISC-V processor using memory mapped I/O technique 
+Repo-Count: 51
+
+Name: 32-bit_RISC-V_pipelined_core
+Owner: OmarElayat
+Size (KB): 17756
+URL: https://github.com/OmarElayat/32-bit_RISC-V_pipelined_core
+Description: RISC-V processor supporting all forty RV32I user-level instructions. The processor is pipelined with correct hazards handling. The design was tested and verified on the Nexys A7 FPGA using Xilinx Vivado.
+Repo-Count: 52
+
+Name: diagv
+Owner: gadiluna
+Size (KB): 18
+URL: https://github.com/gadiluna/diagv
+Description: RISC V single cycle processor for the course of Computer Architectures - Bachelor Degree - Computer Engineering - Sapienza
+Repo-Count: 53
+
+Name: single-cycle-riscv-processor
+Owner: SupunDK
+Size (KB): 34720
+URL: https://github.com/SupunDK/single-cycle-riscv-processor
+Description: A RISC-V processor that supports R-type, I-type, S-type, SB-type, U-type, and UJ-type instructions excluding system instructions of the RV32I base instruction set.
+Repo-Count: 54
+
+Name: 32-bit-RISC-V-Cpu-Design-Verilog
+Owner: erendrcnn
+Size (KB): 7
+URL: https://github.com/erendrcnn/32-bit-RISC-V-Cpu-Design-Verilog
+Description: This RISCV CPU Architecture is designed on the efficient and effective operation of all instructions. However, for simulation purposes, a processor that can work with 15 instructions has been designed. The designed processor produces the correct output for all the specified instructions in a single cycle.
+Repo-Count: 55
+
+Name: miet-microprocessors
+Owner: novoseltcev
+Size (KB): 2719
+URL: https://github.com/novoseltcev/miet-microprocessors
+Description: development of the risc v processor in the context of training in the development of microprocessors at MIET
+Repo-Count: 56
+
+Name: RISC-MIPS-Arch-Implementation
+Owner: BharathiShrinivasan
+Size (KB): 3369
+URL: https://github.com/BharathiShrinivasan/RISC-MIPS-Arch-Implementation
+Description: Understand and comprehend the design philosophy of RISC-V Processor architecture. “Computer Organisation and Design” – David A. Patterson, John Hennessy
+Repo-Count: 57
+
+Name: ARM7
+Owner: chsasank
+Size (KB): 3772
+URL: https://github.com/chsasank/ARM7
+Description: Implemetation of pipelined ARM7TDMI processor in Verilog
+Repo-Count: 58
+
+Name: ARMv8_Pipeline
+Owner: Jordi-Jaspers
+Size (KB): 18
+URL: https://github.com/Jordi-Jaspers/ARMv8_Pipeline
+Description: An Arm V8 processor with pipelining made via the instructions of the ARM-Edition book written by David A. Patterson & John L. Hennesey
+Repo-Count: 59
+
+Name: ARM-LP
+Owner: alexanderepstein
+Size (KB): 116
+URL: https://github.com/alexanderepstein/ARM-LP
+Description: ARM Like Processor written in Verilog
+Repo-Count: 60
+
+Name: Computer-Architecture-Lab-Experiments-F2023
+Owner: Shahriar-0
+Size (KB): 43086
+URL: https://github.com/Shahriar-0/Computer-Architecture-Lab-Experiments-F2023
+Description: ARM processor pipeline implementation. Featuring hazard unit, forwarding unit, SRAM & cache memory.
+Repo-Count: 61
+
+Name: single-cycle-armv7-processor
+Owner: w43322
+Size (KB): 5
+URL: https://github.com/w43322/single-cycle-armv7-processor
+Description: A Single Cycle Arm-v7 Processor.
+Repo-Count: 62
+
+Name: ARM-LEGv8-processor
+Owner: Jamboii
+Size (KB): 2361
+URL: https://github.com/Jamboii/ARM-LEGv8-processor
+Description: Different verilog implementations of processors using the ARM-LEGv8 architecture
+Repo-Count: 63
+
+Name: ARMAria
+Owner: GustavoOS
+Size (KB): 1323
+URL: https://github.com/GustavoOS/ARMAria
+Description: Processor designed to work on a FPGA system: Altera DE2 - 115.
+Repo-Count: 64
+
+Name: morphgen
+Owner: dxlnr
+Size (KB): 7806
+URL: https://github.com/dxlnr/morphgen
+Description: Implementing a Processor.
+Repo-Count: 65
+
+Name: ArmV8_Single_Cycle
+Owner: Jordi-Jaspers
+Size (KB): 22
+URL: https://github.com/Jordi-Jaspers/ArmV8_Single_Cycle
+Description: An Arm V8 Single Cycle processor made with the instructions of the ARM-Edition book written by David A. Patterson & John L. Hennesey
+Repo-Count: 66
+
+Name: FPGA-Robot-Arm
+Owner: aidn628
+Size (KB): 28564
+URL: https://github.com/aidn628/FPGA-Robot-Arm
+Description: A simple robot arm that can replay movements based on a custom processor implemented in Verilog. Originally developed as a final project for ECE 350 at Duke University taught by Dr. John Board.
+Repo-Count: 67
+
+Name: IMPROVEDRISCARM
+Owner: VoltsBD
+Size (KB): 344
+URL: https://github.com/VoltsBD/IMPROVEDRISCARM
+Description: This contains an ARM Like Processor Implementation bare enough to let students work on its IP Improvement
+Repo-Count: 68
+
+Name: CPU
+Owner: babys-first-processor
+Size (KB): 3123
+URL: https://github.com/babys-first-processor/CPU
+Description: 64-bit ARM processor for Computer Architecture course at Rowan University
+Repo-Count: 69
+
+Name: ARM
+Owner: OmidPanakari
+Size (KB): 4285
+URL: https://github.com/OmidPanakari/ARM
+Description: ARM processor implementation
+Repo-Count: 70
+
+Name: ARM-Processor
+Owner: Jedi1308
+Size (KB): 30
+URL: https://github.com/Jedi1308/ARM-Processor
+Description: My custom ARM processor
+Repo-Count: 71
+
+Name: ARM-Processor
+Owner: cGandom
+Size (KB): 14
+URL: https://github.com/cGandom/ARM-Processor
+Description: A Verilog implementation of ARM architecture
+Repo-Count: 72
+
+Name: Computer-Architecture-Lab-Projects
+Owner: MisaghM
+Size (KB): 10724
+URL: https://github.com/MisaghM/Computer-Architecture-Lab-Projects
+Description: ARM processor implementation, hazard unit, forwarding unit, SRAM & cache memory.
+Repo-Count: 73
+
+Name: MIPS-Verilog
+Owner: silverfoxy
+Size (KB): 1633
+URL: https://github.com/silverfoxy/MIPS-Verilog
+Description: MIPS R3000 processor verilog code to be synthesized on Spartan 3E FPGA board.
+Repo-Count: 74
+
+Name: mips_cpu
+Owner: diadatp
+Size (KB): 7
+URL: https://github.com/diadatp/mips_cpu
+Description: A implementation of a 32-bit single cycle MIPS processor in Verilog.
+Repo-Count: 75
+
+Name: VE370-Pipelined-Processor
+Owner: Matrixpecker
+Size (KB): 1508
+URL: https://github.com/Matrixpecker/VE370-Pipelined-Processor
+Description: An MIPS pipelined processor with hazard detection for the course VE370 (FA2020) of UM-SJTU JI.
+Repo-Count: 76
+
+Name: mips-pipeline
+Owner: melzareix
+Size (KB): 37
+URL: https://github.com/melzareix/mips-pipeline
+Description: Mips Pipeline Processor
+Repo-Count: 77
+
+Name: Verilog_HDL_single_cycle_MIPS_processor
+Owner: vsilchuk
+Size (KB): 4542
+URL: https://github.com/vsilchuk/Verilog_HDL_single_cycle_MIPS_processor
+Description: Single-cycle MIPS processor in Verilog HDL.
+Repo-Count: 78
+
+Name: MyProc
+Owner: Raamakrishnan
+Size (KB): 1315
+URL: https://github.com/Raamakrishnan/MyProc
+Description: MyProc is a processor implemented in verilog for educational purposes.
+Repo-Count: 79
+
+Name: 5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog
+Owner: arpit306
+Size (KB): 71
+URL: https://github.com/arpit306/5-Stage-Pipelined-MIPS32-RISC-Processor-Design-on-Verilog
+Description: This repository contains the details and the code for the MIPS32 ISA based RISC Processor, which is implemented in 5 stage pipelined configuration.
+Repo-Count: 80
+
+Name: Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS
+Owner: MaharshSuryawala
+Size (KB): 5802
+URL: https://github.com/MaharshSuryawala/Microprocessor-Without-Interlocked-Pipeline-Stages-MIPS
+Description: RISC based 8-bits five stage pipelined processor, operating at 585 MHz clock frequency with 19 I/O pins and 28 instructions having 5 Addressing formats. Tested on Xilinx Artix-7 FPGA.
+Repo-Count: 81
+
+Name: MIPS-32-Bit-Verilog
+Owner: rakeshkadamati
+Size (KB): 71
+URL: https://github.com/rakeshkadamati/MIPS-32-Bit-Verilog
+Description: 32-Bit MIPS processor implemented in Verilog for CS 4341 - Digital Logic and Computer Design.
+Repo-Count: 82
+
+Name: MIPS-5-stage-pipelined-control-and-datapath
+Owner: akankshac-073
+Size (KB): 21
+URL: https://github.com/akankshac-073/MIPS-5-stage-pipelined-control-and-datapath
+Description: Implementation of a 32-bit 5 stage Pipelined MIPS Processor using RTL coding in Verilog on ModelSim simulator. The processor datapath and control units are designed for Arithmetic and Logical instructions (all r-type instructions + addi, andi, ori, slti), Data transfer instructions (lw, sw), Branch and jump instructions (beq, j). Forwarding control, hazard detection and stalling units are also implemented to improve the efficiency of the pipeline. The designed processor can be tested by initializing the instruction memory with test instructions and obtaining the corresponding register contents by generating waveforms on ModelSim.
+Repo-Count: 83
+
+Name: single-cycle-mips-verilog
+Owner: conneroisu
+Size (KB): 1515
+URL: https://github.com/conneroisu/single-cycle-mips-verilog
+Description: A single cycle mips processor implementation in verilog.
+Repo-Count: 84
+
+Name: sc-mips
+Owner: DTV96Calibre
+Size (KB): 38
+URL: https://github.com/DTV96Calibre/sc-mips
+Description: A single cycle MIPS processor implemented with Icarus Verilog
+Repo-Count: 85
+
+Name: 5-stage-static-superscalar-MIPS32v2-CPU-with-AES128-FPGA-verified
+Owner: HU-Xu-yang
+Size (KB): 4252
+URL: https://github.com/HU-Xu-yang/5-stage-static-superscalar-MIPS32v2-CPU-with-AES128-FPGA-verified
+Description: THU Micro-Processor-Design lab assignment @2022 summer
+Repo-Count: 86
+
+Name: mips-cpu
+Owner: streetdogg
+Size (KB): 101
+URL: https://github.com/streetdogg/mips-cpu
+Description: Verilog implementation of a subset of MIPS 32 Bit Processor Instructions, ISA design, Assembler Design and Compiler design
+Repo-Count: 87
+
+Name: MIPS-PPU
+Owner: iamvictorblue
+Size (KB): 1670
+URL: https://github.com/iamvictorblue/MIPS-PPU
+Description: Project for my Computer Architecture & Organization Class, where we had to design a MIPS 5 Stage Pipelined Processing Unit that could process a series of instructions and requirements.
+Repo-Count: 88
+
+Name: MIPS-pipeline-processor
+Owner: zzp1012
+Size (KB): 23025
+URL: https://github.com/zzp1012/MIPS-pipeline-processor
+Description: MIPS pipeline processor modeling by verilog
+Repo-Count: 89
+
+Name: 16-BIT-MIPS-PROCESSOR
+Owner: 26prajval98
+Size (KB): 621
+URL: https://github.com/26prajval98/16-BIT-MIPS-PROCESSOR
+Description: 16 bit mips processor using logisim and verilog
+Repo-Count: 90
+
+Name: mips
+Owner: rtwksai
+Size (KB): 538
+URL: https://github.com/rtwksai/mips
+Description: 32-bit Non Pipeline MIPS Processor
+Repo-Count: 91
+
+Name: single-cycle-mips-processor
+Owner: burraaook
+Size (KB): 13623
+URL: https://github.com/burraaook/single-cycle-mips-processor
+Description: A single cycle mips processor designed with Verilog HDL.
+Repo-Count: 92
+
+Name: mips-processor
+Owner: giorgosv12
+Size (KB): 3610
+URL: https://github.com/giorgosv12/mips-processor
+Description: None
+Repo-Count: 93
+
+Name: CSE-BUBBLE-PROCESSOR
+Owner: Goutam-115
+Size (KB): 59
+URL: https://github.com/Goutam-115/CSE-BUBBLE-PROCESSOR
+Description: A 32-bit processor, similar instruction set architecture as MIPS-32 ISA
+Repo-Count: 94
+
+Name: MIPS_Processor_Design
+Owner: SuperMoudy
+Size (KB): 327
+URL: https://github.com/SuperMoudy/MIPS_Processor_Design
+Description: Academic Project based on digital design of MIPS processor as a hardware using verilog as a hardware description language
+Repo-Count: 95
+
+Name: MIPS-Processor-in-Verilog
+Owner: nargesalavi
+Size (KB): 17114
+URL: https://github.com/nargesalavi/MIPS-Processor-in-Verilog
+Description: None
+Repo-Count: 96
+
+Name: Zeus-Processor
+Owner: GustavoBarbaro
+Size (KB): 51166
+URL: https://github.com/GustavoBarbaro/Zeus-Processor
+Description: This is a MIPS based processor developed while I made the Architecture and Organization of Computers Laboratory in graduation
+Repo-Count: 97
+
+Name: MIPS-4-Stage-Pipelined-Processor
+Owner: iyervarsha12
+Size (KB): 206
+URL: https://github.com/iyervarsha12/MIPS-4-Stage-Pipelined-Processor
+Description: None
+Repo-Count: 98
+
+Name: Superscalar-MIPS
+Owner: gitmehrdad
+Size (KB): 188
+URL: https://github.com/gitmehrdad/Superscalar-MIPS
+Description:  This Verilog implementation represents a 32-bit MIPS processor featuring out-of-order execution.
+Repo-Count: 99
+
+Name: MIPs-Pipelined-Processor
+Owner: olivamadrigal
+Size (KB): 13
+URL: https://github.com/olivamadrigal/MIPs-Pipelined-Processor
+Description: MIPs pipelined processor in Verilog
+Repo-Count: 100
+
+Name: 32-bit-processor
+Owner: hamidzehtab
+Size (KB): 6
+URL: https://github.com/hamidzehtab/32-bit-processor
+Description: verilog MIPS computer architechture final
+Repo-Count: 101
+
+Name: Mips-Pipeline-Processor
+Owner: BrianBeerbower
+Size (KB): 7710
+URL: https://github.com/BrianBeerbower/Mips-Pipeline-Processor
+Description: 32 bit Mips Pipeline Processor
+Repo-Count: 102
+
+Name: MIPS_Pipelining_Verilog
+Owner: HarryChen1995
+Size (KB): 80
+URL: https://github.com/HarryChen1995/MIPS_Pipelining_Verilog
+Description: Custom MIPS Processor
+Repo-Count: 103
+
+Name: MIPS32_Processor
+Owner: shawy006
+Size (KB): 7
+URL: https://github.com/shawy006/MIPS32_Processor
+Description: None
+Repo-Count: 104
+
+Name: Pipeline-MIPS-Processor
+Owner: cGandom
+Size (KB): 54
+URL: https://github.com/cGandom/Pipeline-MIPS-Processor
+Description: A Verilog implementation of MIPS pipeline architecture
+Repo-Count: 105
+
+Name: mips_processor
+Owner: ainterr
+Size (KB): 0
+URL: https://github.com/ainterr/mips_processor
+Description: A simplified, single cycle mips processor written in verilog
+Repo-Count: 106
+
+Name: 32-Bit-MIPS-Multicycle-Processor
+Owner: pf3rmat
+Size (KB): 163
+URL: https://github.com/pf3rmat/32-Bit-MIPS-Multicycle-Processor
+Description: Simple Processor using the MIPS archeticture.
+Repo-Count: 107
+
+Name: single-cycle-processor
+Owner: japawBlob
+Size (KB): 723
+URL: https://github.com/japawBlob/single-cycle-processor
+Description: Single cycle and pipelined MIPS processor in Verilog.
+Repo-Count: 108
+
+Name: Pipelined_MIPS32_Processor
+Owner: Rishi-T
+Size (KB): 8
+URL: https://github.com/Rishi-T/Pipelined_MIPS32_Processor
+Description: A 32-bit MIPS Pipelined implementation, created as a part of CS F341 Computer Architecture University course.
+Repo-Count: 109
+
+Name: MIPS32Processor_UART
+Owner: ForceTower
+Size (KB): 8576
+URL: https://github.com/ForceTower/MIPS32Processor_UART
+Description: A MIPS32 Processor with 2 Memory Mapped UART.
+Repo-Count: 110
+
+Name: MIPS32_StandaloneProcessor
+Owner: ForceTower
+Size (KB): 35
+URL: https://github.com/ForceTower/MIPS32_StandaloneProcessor
+Description: A Standalone version of a MIPS32 Processor
+Repo-Count: 111
+
+Name: MIPS-Pipelined-Processor
+Owner: Hariharan112
+Size (KB): 29
+URL: https://github.com/Hariharan112/MIPS-Pipelined-Processor
+Description: A 32-bit MIPS Pipelined Processor design in verilog
+Repo-Count: 112
+
+Name: MIPS-Multicycle-Processor
+Owner: Hariharan112
+Size (KB): 33
+URL: https://github.com/Hariharan112/MIPS-Multicycle-Processor
+Description: Implementation of a complete MIPS Multicycle processor using Verilog
+Repo-Count: 113
+
+Name: mips-pipelined
+Owner: mingmingrr
+Size (KB): 925
+URL: https://github.com/mingmingrr/mips-pipelined
+Description: MIPS I processor for EEL4713
+Repo-Count: 114
+
+Name: processador-mips
+Owner: diegowendel
+Size (KB): 871347
+URL: https://github.com/diegowendel/processador-mips
+Description: CPU Baseada em MIPS implementada em Verilog
+Repo-Count: 115
+
+Name: 8-bit-MIPS-Processor
+Owner: GabrielGiurgica
+Size (KB): 603
+URL: https://github.com/GabrielGiurgica/8-bit-MIPS-Processor
+Description: A Verilog implementation of an 8-bit MIPS processor
+Repo-Count: 116
+
+Name: mips-processor-design
+Owner: simar7
+Size (KB): 2995
+URL: https://github.com/simar7/mips-processor-design
+Description: Partial coursework in ECE42X for a five stage MIPS processor.
+Repo-Count: 117
+
+Name: MIPS_Processor
+Owner: 30383
+Size (KB): 119
+URL: https://github.com/30383/MIPS_Processor
+Description: 5 staged Pipelined 32-bit MIPS processor implementation in Xilinx Vivado using Verilog
+Repo-Count: 118
+
+Name: MIPS-Processor
+Owner: devshree07
+Size (KB): 20
+URL: https://github.com/devshree07/MIPS-Processor
+Description:  Implemented 16-bit MIPS Pipelined Processor in Verilog-HDL on Xilinx Platform. The processor can perform 28 different operations. The operations were successfully executed using an FPGA.
+Repo-Count: 119
+
+Name: MIPS-processor
+Owner: adrianmoo2
+Size (KB): 18
+URL: https://github.com/adrianmoo2/MIPS-processor
+Description: Implementation of the MIPS architecture in Verilog. Repo made by github-rcreator.
+Repo-Count: 120
+
+Name: MIPS-Processor
+Owner: dan-lara
+Size (KB): 122
+URL: https://github.com/dan-lara/MIPS-Processor
+Description: Implementação de uma arquitetura RISC baseada em MIPS em uma FPGA, com um conjunto de instruções personalizado (ISA) adaptado às necessidades do grupo. Inclui design, implementação, testes e validação.
+Repo-Count: 121
+
+Name: MIPS-processor
+Owner: jpbezerra
+Size (KB): 35
+URL: https://github.com/jpbezerra/MIPS-processor
+Description: None
+Repo-Count: 122
+
+Name: MIPS_Processors
+Owner: surajbidnur
+Size (KB): 223
+URL: https://github.com/surajbidnur/MIPS_Processors
+Description: Verilog implementation of the MIPS single cycle, multi cycle and pipeline processor architectures
+Repo-Count: 123
+
+Name: MIPS_Processor
+Owner: Devansh0210
+Size (KB): 67
+URL: https://github.com/Devansh0210/MIPS_Processor
+Description: None
+Repo-Count: 124
+
+Name: Certified_Preowned_Processor_Project
+Owner: bruhe002
+Size (KB): 255
+URL: https://github.com/bruhe002/Certified_Preowned_Processor_Project
+Description: Utilizing Verilog to create a single cycle MIPS implemented CPU
+Repo-Count: 125
+
+Name: full_mips
+Owner: jmassucco17
+Size (KB): 2234
+URL: https://github.com/jmassucco17/full_mips
+Description: Full implementation of a mips processor
+Repo-Count: 126
+
+Name: MIPS32
+Owner: ebylmz
+Size (KB): 926
+URL: https://github.com/ebylmz/MIPS32
+Description: 🤖 32 Bit Single Cycle MIPS Processor
+Repo-Count: 127
+
+Name: MIPS31Pipeline
+Owner: MaxMorning
+Size (KB): 46
+URL: https://github.com/MaxMorning/MIPS31Pipeline
+Description: A MIPS pipeline processor support 31 instructions
+Repo-Count: 128
+
+Name: Pipelined-MIPS-Processor
+Owner: jassieldeliz
+Size (KB): 97
+URL: https://github.com/jassieldeliz/Pipelined-MIPS-Processor
+Description: None
+Repo-Count: 129
+
+Name: Custom-Mips-Processor
+Owner: archit16
+Size (KB): 8
+URL: https://github.com/archit16/Custom-Mips-Processor
+Description: None
+Repo-Count: 130
+
+Name: MIPS_processor_verilog
+Owner: LostInArgand
+Size (KB): 35
+URL: https://github.com/LostInArgand/MIPS_processor_verilog
+Description: None
+Repo-Count: 131
+
+Name: MIPS-Pipelined-Processor
+Owner: pragneshp7
+Size (KB): 57
+URL: https://github.com/pragneshp7/MIPS-Pipelined-Processor
+Description: Designed a 4-stage pipelined microprocessor for a subset of MIPS ISA. Coded datapath and controlpath in Verilog and verified functioning on FPGA
+Repo-Count: 132
+
+Name: MIPS_Pipelined_Processor
+Owner: samidhm
+Size (KB): 25
+URL: https://github.com/samidhm/MIPS_Pipelined_Processor
+Description: None
+Repo-Count: 133
+
+Name: MIPS-Single-Cycle-Processor
+Owner: Hariharan112
+Size (KB): 11
+URL: https://github.com/Hariharan112/MIPS-Single-Cycle-Processor
+Description: A verilog HDL implementation of a 32 bit MIPS Single Cycle Processor
+Repo-Count: 134
+
+Name: MIPS-based-Processor
+Owner: MatheusAssisNeves
+Size (KB): 1027
+URL: https://github.com/MatheusAssisNeves/MIPS-based-Processor
+Description: None
+Repo-Count: 135
+
+Name: Pipelined_MIPS_Processor
+Owner: xiemengjie-kay
+Size (KB): 10
+URL: https://github.com/xiemengjie-kay/Pipelined_MIPS_Processor
+Description: A pipelined implementation of the MIPS processor featuring hazard detection as well as forwarding.
+Repo-Count: 136
+
+Name: fpgmips
+Owner: mtaciano
+Size (KB): 972
+URL: https://github.com/mtaciano/fpgmips
+Description: Um processador baseado na arquitetura MIPS 32bits no FPGA DE2-115.
+Repo-Count: 137
+
+Name: MIPS-Single-Cycle-Processor
+Owner: mattthesis
+Size (KB): 268
+URL: https://github.com/mattthesis/MIPS-Single-Cycle-Processor
+Description: This is a Verilog simulation of a single cycle processor using the MIPS architechture.
+Repo-Count: 138
+
+Name: MIPS-Multicycle
+Owner: mohasnik
+Size (KB): 294
+URL: https://github.com/mohasnik/MIPS-Multicycle
+Description: The Multi-cycle verilog description of MIPS processor
+Repo-Count: 139
+
+Name: MIPS-Processor-32-Bit
+Owner: Akor-Michael
+Size (KB): 78
+URL: https://github.com/Akor-Michael/MIPS-Processor-32-Bit
+Description: This repository contains a Verilog implementation of a 32-bit 5-stage pipelined MIPS processor. The processor is designed to demonstrate fundamental concepts in pipelined architecture and instruction-level parallelism. It supports a subset of the MIPS32 instruction set, including basic arithmetic operations, memory access, and branching.
+Repo-Count: 140
+
+Name: Verilog-Multicycle-MIPS-Processor
+Owner: dwightdiesmo
+Size (KB): 103
+URL: https://github.com/dwightdiesmo/Verilog-Multicycle-MIPS-Processor
+Description: None
+Repo-Count: 141
+
+Name: Single-Cycle_MIPS_Processor
+Owner: MarleyLobao
+Size (KB): 30
+URL: https://github.com/MarleyLobao/Single-Cycle_MIPS_Processor
+Description: This repository holds files related to the development of a Single-Cycle Processor developed during the Digital Systems Architecture course.
+Repo-Count: 142
+
+Name: Verilog-Pipelined-MIPS-Processor
+Owner: dwightdiesmo
+Size (KB): 117
+URL: https://github.com/dwightdiesmo/Verilog-Pipelined-MIPS-Processor
+Description: None
+Repo-Count: 143
+
+Name: Altera-DE2-processor
+Owner: TwTravel
+Size (KB): 174
+URL: https://github.com/TwTravel/Altera-DE2-processor
+Description: A pipelined MIPS-like architecture processor written in Verilog for the Altera DE2-115 Board
+Repo-Count: 144
+
+Name: Projeto-IF674-2021
+Owner: JDaniloC
+Size (KB): 522
+URL: https://github.com/JDaniloC/Projeto-IF674-2021
+Description: Learning Assembly Mips and building a processor using verilog.
+Repo-Count: 145
+
+Name: FUM-Computer-Architecture-Pipelined-MIPS-Processor
+Owner: JavidChaji
+Size (KB): 982
+URL: https://github.com/JavidChaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor
+Description: Pipelined MIPS Processor implementation, Computer Assignment for Computer Architecture course in Ferdowsi University of Mashhad
+Repo-Count: 146
+
+Name: 32-Bit-Mips-Processor-Verilog
+Owner: ddilarakarakas
+Size (KB): 2429
+URL: https://github.com/ddilarakarakas/32-Bit-Mips-Processor-Verilog
+Description: None
+Repo-Count: 147
+
+Name: Mips_Pipelined
+Owner: MeysamAmirsardari
+Size (KB): 394
+URL: https://github.com/MeysamAmirsardari/Mips_Pipelined
+Description: Pipelined MIPS Processor with full hazard handling + Single-Cycle adjunct
+Repo-Count: 148
+
+Name: FUM-Computer-Architecture-Single-Cycle-MIPS-Processor
+Owner: JavidChaji
+Size (KB): 745
+URL: https://github.com/JavidChaji/FUM-Computer-Architecture-Single-Cycle-MIPS-Processor
+Description: Single Cycle MIPS Processor implementation, Computer Assignment for Computer Architecture course in Ferdowsi University of Mashhad
+Repo-Count: 149
+
+Name: MIPS_RISK
+Owner: sh4de-c4t
+Size (KB): 596
+URL: https://github.com/sh4de-c4t/MIPS_RISK
+Description: DESIGN OF A 32-BIT RISC BASED MIPS PROCESSOR USING VERILOG
+Repo-Count: 150
+
+Name: MiniMIPS
+Owner: tgknyhn
+Size (KB): 2043
+URL: https://github.com/tgknyhn/MiniMIPS
+Description: A mini processor designed with MIPS Architecture. Uses 16-bit instructions. 
+Repo-Count: 151
+
+Name: MIPS-Microprocessor
+Owner: ratnam18
+Size (KB): 17
+URL: https://github.com/ratnam18/MIPS-Microprocessor
+Description: 16-bit MIPS Pipelined Processor in Verilog on Xilinx. Can perform 28 different operations. Tested by dumping on an FPGA.
+Repo-Count: 152
+
+Name: Computer-Architecture-Projects---------Multi-Cycle-RISC-Processor--MIPS-Assembly
+Owner: Mohammad-AbuJaber
+Size (KB): 4896
+URL: https://github.com/Mohammad-AbuJaber/Computer-Architecture-Projects---------Multi-Cycle-RISC-Processor--MIPS-Assembly
+Description: None
+Repo-Count: 153
+
+Name: OpenMIPS32
+Owner: linln1
+Size (KB): 1809
+URL: https://github.com/linln1/OpenMIPS32
+Description: Havard Structure & GCC compiler & Level 5 Processer pipeline
+Repo-Count: 154
+
+Name: mips-single-cycle-verilog
+Owner: mahdi-nasehiyan
+Size (KB): 344
+URL: https://github.com/mahdi-nasehiyan/mips-single-cycle-verilog
+Description: "Computer Architecture" university course project. A simple single-cycle 32-bit processor based on the MIPS architecture implemented using Verilog.
+Repo-Count: 155
+
+Name: Mips-single-cycle
+Owner: Athanasioschourlias
+Size (KB): 16
+URL: https://github.com/Athanasioschourlias/Mips-single-cycle
+Description: This is a simple implementation of the MIPS single cycle processor that is described and taught in the book of "Computer Organisation and Design" from Patterson and Hennessy.
+Repo-Count: 156
+
+Name: MIPS-Single-Multi-Cycle-Verilog
+Owner: Namdarkhodadad
+Size (KB): 507
+URL: https://github.com/Namdarkhodadad/MIPS-Single-Multi-Cycle-Verilog
+Description: In this repository, I am posting the Implementation of a MIPS processor in a Single(& Multi) Cycle. This code was written by me and my teammate Arsham Lolohari for our Computer Architecture course.
+Repo-Count: 157
+
+Name: MIPS-5-Stage-Pipeline-Project
+Owner: the-pinbo
+Size (KB): 9667
+URL: https://github.com/the-pinbo/MIPS-5-Stage-Pipeline-Project
+Description: This project involves the implementation and simulation of a MIPS 5-stage pipelined processor using Verilog. The implementation is based on the MIPS architecture as outlined in the "Computer Organization and Design: The Hardware/Software Interface" and "Digital Design and Computer Architecture"
+Repo-Count: 158
+
+Name: 32-Bit-RISC-Architecture-Based-on-MIPS
+Owner: akshay-na
+Size (KB): 159
+URL: https://github.com/akshay-na/32-Bit-RISC-Architecture-Based-on-MIPS
+Description: Discover the 32-Bit RISC Processor Architecture based on MIPS, designed for efficient computing. This repository includes a comprehensive simulation and implementation guide, detailed documentation, and fully commented Verilog code, making it an invaluable resource for students and professionals interested in hardware design and computer architectu
+Repo-Count: 159
+
+Name: AES-Cipher-Chip
+Owner: Hsury
+Size (KB): 32288
+URL: https://github.com/Hsury/AES-Cipher-Chip
+Description: An AES cipher chip supporting 128/256 ECB mode with 8-bit half-duplex data bus, being taped out using SMIC 130nm process.
+Repo-Count: 160
+
+Name: jimmy
+Owner: kuashio
+Size (KB): 1125
+URL: https://github.com/kuashio/jimmy
+Description: An 8-bit soft processor written in Verilog.
+Repo-Count: 161
+
+Name: baby8
+Owner: jeceljr
+Size (KB): 4771
+URL: https://github.com/jeceljr/baby8
+Description: a tiny 8 bit processor to help with i/o while taking up as few FPGA resources as possible
+Repo-Count: 162
+
+Name: Hephaestus
+Owner: aklsh
+Size (KB): 955
+URL: https://github.com/aklsh/Hephaestus
+Description: 32-Bit Processor, formerly 8-bit
+Repo-Count: 163
+
+Name: UB-CSE-590-Design-of-an-8-bit-Processor-non-pipelined
+Owner: Akankshg-ByteWizard
+Size (KB): 11
+URL: https://github.com/Akankshg-ByteWizard/UB-CSE-590-Design-of-an-8-bit-Processor-non-pipelined
+Description: Computer Computer Architecture Semester Project 2023: To implement the processor you will use Xilinx Vivado and Verilog: ● Vivado is an integrated development environment from Xilinx which includes many tools for the development, analysis, and synthesis to target hardware. ● Verilog is a Hardware Description Language (HDL)
+Repo-Count: 164
+
+Name: processor
+Owner: manishravula
+Size (KB): 168
+URL: https://github.com/manishravula/processor
+Description: Implementation of 8-bit multi cycle processor using verilog on FPGA
+Repo-Count: 165
+
+Name: 8-bit-Processor
+Owner: kasrakamali
+Size (KB): 4
+URL: https://github.com/kasrakamali/8-bit-Processor
+Description: None
+Repo-Count: 166
+
+Name: 4-stage-Pipelined-8-bit-Processor
+Owner: ShadyCookies
+Size (KB): 1044
+URL: https://github.com/ShadyCookies/4-stage-Pipelined-8-bit-Processor
+Description: Implementation of a pipelined 8-bit processor for a custom ISA in Verilog
+Repo-Count: 167
+
+Name: 8BitMicroFPGA
+Owner: ammarmalik17
+Size (KB): 11
+URL: https://github.com/ammarmalik17/8BitMicroFPGA
+Description: This repository contains all the necessary Verilog code and supporting files to synthesize the 8-bit soft-core processor on an FPGA. The code is well-commented, following best practices in digital design to ensure clarity and maintainability.
+Repo-Count: 168
+
+Name: MAS8
+Owner: G05B3
+Size (KB): 8088
+URL: https://github.com/G05B3/MAS8
+Description: Simple 8 bit Processor designed on a Chip. Runs on a custom Assembly.
+Repo-Count: 169
+
+Name: CPU_implementation
+Owner: afshan-ahamad
+Size (KB): 15
+URL: https://github.com/afshan-ahamad/CPU_implementation
+Description: This project is based on computer architecture. A  simple 8-bit single-cycle processor which includes an ALU, a register file and control logic using verilog.
+Repo-Count: 170
+
+Name: rj32
+Owner: rj45
+Size (KB): 8936
+URL: https://github.com/rj45/rj32
+Description: A 16-bit RISC CPU with 32 instructions built with Digital for running on an FPGA.
+Repo-Count: 171
+
+Name: 16-bit-risc-processor
+Owner: michaelriri
+Size (KB): 621
+URL: https://github.com/michaelriri/16-bit-risc-processor
+Description: A 16-bit Reduced Instruction Set Computing(RISC) processor capable of fetching and executing a set of 16-bit machine instructions.
+Repo-Count: 172
+
+Name: artemis
+Owner: solderneer
+Size (KB): 1583
+URL: https://github.com/solderneer/artemis
+Description: An Verilog implementation of a 16 bit processor, codenamed Artemis
+Repo-Count: 173
+
+Name: simd-processor-verification
+Owner: saivittalb
+Size (KB): 5968
+URL: https://github.com/saivittalb/simd-processor-verification
+Description: ✅ Formal verification of a 16-bit SIMD processor
+Repo-Count: 174
+
+Name: RISC-processor
+Owner: Sowhum
+Size (KB): 48
+URL: https://github.com/Sowhum/RISC-processor
+Description: A simple RISC 16 bit processor desgined in verilog following harvard architecture consisting of a 5 stage pipeline
+Repo-Count: 175
+
+Name: DE0-Verilog-Processor
+Owner: oblivioncth
+Size (KB): 2643
+URL: https://github.com/oblivioncth/DE0-Verilog-Processor
+Description: A fully functional 16-bit virtual processor (harvard architecture) created from scratch using Verliog, an Altera DE0, and peripheral board. The processor is paired with 256 KB of RAM and accepts assembly instructions. See the datasheet under "documentation" for more information. Developed by Christian Heimlich in Quartus II
+Repo-Count: 176
+
+Name: 16-bit_RISC_Processor
+Owner: ishfaqahmed29
+Size (KB): 25
+URL: https://github.com/ishfaqahmed29/16-bit_RISC_Processor
+Description: Verilog RTL Design
+Repo-Count: 177
+
+Name: 16bit-Processor
+Owner: alan4186
+Size (KB): 637
+URL: https://github.com/alan4186/16bit-Processor
+Description: A 16 bit processor for my ECE 289 Computer Organization (Architecture) class at Miami University
+Repo-Count: 178
+
+Name: 16bit-verilog-processor
+Owner: SteveT10
+Size (KB): 24870
+URL: https://github.com/SteveT10/16bit-verilog-processor
+Description: A 16-bit programmable processor project designed and simulated in ModelSim and Quartus Software.
+Repo-Count: 179
+
+Name: multi-cycle-processor
+Owner: aydinsimsek
+Size (KB): 29
+URL: https://github.com/aydinsimsek/multi-cycle-processor
+Description: 16-bit customized multi-cycle CPU from scratch.
+Repo-Count: 180
+
+Name: Pipelined-LC3
+Owner: DoctorRidley
+Size (KB): 77
+URL: https://github.com/DoctorRidley/Pipelined-LC3
+Description: A simple 16-bit processor with pipelining.
+Repo-Count: 181
+
+Name: SimpleProcessor
+Owner: TarekIbnZiad
+Size (KB): 13
+URL: https://github.com/TarekIbnZiad/SimpleProcessor
+Description: Designing and simulating a 16-bit Micro Processor using Verilog HDL 
+Repo-Count: 182
+
+Name: RISC-Processor-16-Bit
+Owner: Akor-Michael
+Size (KB): 56
+URL: https://github.com/Akor-Michael/RISC-Processor-16-Bit
+Description: 16-bit RISC processor implemented in Verilog, featuring a basic instruction set, control unit, and datapath. Ideal for educational purposes and extending with custom instructions. Includes testbench and documentation.
+Repo-Count: 183
+
+Name: COMPUTER-ARCHITECTURE-PROCESSOR-BOES
+Owner: jerbo2
+Size (KB): 4175
+URL: https://github.com/jerbo2/COMPUTER-ARCHITECTURE-PROCESSOR-BOES
+Description: A fully functional 16-bit Harvard Architecture processor in Verilog using Intel’s Quartus.
+Repo-Count: 184
+
+Name: UnversityEducation_MPSIS
+Owner: Therad445
+Size (KB): 52918
+URL: https://github.com/Therad445/UnversityEducation_MPSIS
+Description: Designing a microprocessor based on RISC-V architecture
+Repo-Count: 185
+
+Name: AE-01_RISC-V_Core
+Owner: akyola
+Size (KB): 15
+URL: https://github.com/akyola/AE-01_RISC-V_Core
+Description: A 32-bit RISC-V microprocessor core implementation with Verilog HDL on Vivado Design Suite
+Repo-Count: 186
+
+Name: MIPS_microprocessor
+Owner: lucasmoraismt
+Size (KB): 50
+URL: https://github.com/lucasmoraismt/MIPS_microprocessor
+Description: Projeto da disciplina de Sistemas Digitais 2024.1, CIn - UFPE
+Repo-Count: 187
+
+Name: 32bmp
+Owner: 8hantanu
+Size (KB): 5
+URL: https://github.com/8hantanu/32bmp
+Description: A 32-bit MIPS based 5-stage pipeline microprocessor
+Repo-Count: 188
+
+Name: 16-bitSingleCycleMIPS
+Owner: ahmed-ramsey-shahin
+Size (KB): 6
+URL: https://github.com/ahmed-ramsey-shahin/16-bitSingleCycleMIPS
+Description: Implementation of a 16-bit one cycle MIPS microprocessor using Verilog
+Repo-Count: 189
+
+Name: smp8
+Owner: jpenolio75
+Size (KB): 9
+URL: https://github.com/jpenolio75/smp8
+Description: An implementation of a simple 8-bit microprocessor on an Altera DE2-115 board for UNLV CpE 300L Digital Systems Architecture and Design final project.
+Repo-Count: 190
+
+Name: 8-bit-microprocessor
+Owner: lolzone13
+Size (KB): 41
+URL: https://github.com/lolzone13/8-bit-microprocessor
+Description: Course Project for EE312 Embedded Systems.
+Repo-Count: 191
+
+Name: 8-bit-microprocessor
+Owner: ayushavi1
+Size (KB): 63
+URL: https://github.com/ayushavi1/8-bit-microprocessor
+Description: None
+Repo-Count: 192
+
+Name: 6052-8-bit-microprocessor-cpu-implementation
+Owner: amarjeet-saini
+Size (KB): 6
+URL: https://github.com/amarjeet-saini/6052-8-bit-microprocessor-cpu-implementation
+Description: 6052 8-bit microprocessor cpu implementation in verilog
+Repo-Count: 193
+
+Name: RISC-Machine-Design
+Owner: saumyatshah
+Size (KB): 19
+URL: https://github.com/saumyatshah/RISC-Machine-Design
+Description: Design of a CISC based 8-bit microprocessor
+Repo-Count: 194
+
+Name: ECE385-Digital-Systems-Lab
+Owner: Everloom-129
+Size (KB): 117973
+URL: https://github.com/Everloom-129/ECE385-Digital-Systems-Lab
+Description: The goal of ECE 385 course is to teach students to design, build, and test/debug a digital system, which can be a 16-bit microprocessor, a dedicated logic core, or a system-on-a-chip (SoC) platform
+Repo-Count: 195
+
+Name: neptune
+Owner: ServerTech
+Size (KB): 152
+URL: https://github.com/ServerTech/neptune
+Description: Neptune I: 16-bit RISC Microprocessor
+Repo-Count: 196
+
+Name: Computer-Architecture-Task-2
+Owner: lmxyy
+Size (KB): 150123
+URL: https://github.com/lmxyy/Computer-Architecture-Task-2
+Description: Riscv32 CPU Project
+Repo-Count: 197
+
+Name: Computer-Architecture-Course-Projects
+Owner: SoheilHajianManesh
+Size (KB): 4043
+URL: https://github.com/SoheilHajianManesh/Computer-Architecture-Course-Projects
+Description: Verilog Description of RISC-V single-cycle,multi-cycle and pipeline implementation.
+Repo-Count: 198
+
+Name: cpu-risc-v
+Owner: bloaryth
+Size (KB): 84390
+URL: https://github.com/bloaryth/cpu-risc-v
+Description: My risc-v cpu for Computer Architecture class 
+Repo-Count: 199
+
+Name: Single-Cycle-CPU
+Owner: RyanNeedSleep
+Size (KB): 1009
+URL: https://github.com/RyanNeedSleep/Single-Cycle-CPU
+Description: A single cycle CPU supports a subset of RISC-V instructions. Homework from Computer Architecture in NTU CSIE.
+Repo-Count: 200
+
+Name: Logisim-RISCV32b-CPU
+Owner: s-zahid05
+Size (KB): 43
+URL: https://github.com/s-zahid05/Logisim-RISCV32b-CPU
+Description: This project is an ongoing project involving the computer architecture of CPU's, primarily involving the construction of a RISC-V compliant CPU.  The CPU is pipelined, and a premature FPU.
+Repo-Count: 201
+
+Name: CA-Lab-Projects
+Owner: alumpish
+Size (KB): 14545
+URL: https://github.com/alumpish/CA-Lab-Projects
+Description: Projects of the computer architecture lab (Spring 02) at the University of Tehran.
+Repo-Count: 202
+
+Name: Subarashii-CPU
+Owner: barrettotte
+Size (KB): 11022
+URL: https://github.com/barrettotte/Subarashii-CPU
+Description: A 16-bit RISC CPU inspired by MIPS. I designed this to learn more about computer architecture/organization.
+Repo-Count: 203
+
+Name: Computer-Architecture-Course-Projects
+Owner: MisaghM
+Size (KB): 3242
+URL: https://github.com/MisaghM/Computer-Architecture-Course-Projects
+Description: Verilog descriptions of MIPS single-cycle, multi-cycle & pipeline implementations.
+Repo-Count: 204
+
+Name: 3_Stage_MIPS_CPU
+Owner: jqtangust
+Size (KB): 237
+URL: https://github.com/jqtangust/3_Stage_MIPS_CPU
+Description: 2020西北工业大学计算机学院 计算机组成原理与系统结构试点班 Computer Architecture Principle and System Structure pilot class, School of Computer science, Northwestern Polytechnical University
+Repo-Count: 205
+
+Name: Computer-Architecture-Course-Projects
+Owner: AliAtaollahi
+Size (KB): 4146
+URL: https://github.com/AliAtaollahi/Computer-Architecture-Course-Projects
+Description: Sngle-cycle, Multi-cycle and Pipeline MIPS implementations; Spring 2022
+Repo-Count: 206
+
+Name: Computer-Architecture-Course-Projects
+Owner: sep-81
+Size (KB): 1950
+URL: https://github.com/sep-81/Computer-Architecture-Course-Projects
+Description: Verilog descriptions of MIPS single-cycle, multi-cycle & pipeline implementations.
+Repo-Count: 207
+
+Name: Computer-Architecture-Course-Projects
+Owner: alighanbari2002
+Size (KB): 15669
+URL: https://github.com/alighanbari2002/Computer-Architecture-Course-Projects
+Description: Verilog descriptions of MIPS single-cycle, multi-cycle & booth multiplier.
+Repo-Count: 208
+
+Name: Pipelined-MIPS
+Owner: laboox
+Size (KB): 9
+URL: https://github.com/laboox/Pipelined-MIPS
+Description: A Simple pipeline MIPS originally developed for Computer Architecture Lab. 
+Repo-Count: 209
+
+Name: Equipo_6
+Owner: EzraCharles
+Size (KB): 85
+URL: https://github.com/EzraCharles/Equipo_6
+Description: MIPS implementation of pre-silicon bootcamp computer architecture class by ITESO and INTEL
+Repo-Count: 210
+
+Name: Five-Stage-Datapath
+Owner: sharmavins23
+Size (KB): 203
+URL: https://github.com/sharmavins23/Five-Stage-Datapath
+Description: A simplified version of a MIPS assembly architecture based datapath, created for my computer architecture class.
+Repo-Count: 211
+
+Name: CA-Course-Projects
+Owner: alumpish
+Size (KB): 2144
+URL: https://github.com/alumpish/CA-Course-Projects
+Description: Projects of the computer architecture course (Fall01) at the University of Tehran.
+Repo-Count: 212
+
+Name: 16bit-CPU
+Owner: 1mimhe
+Size (KB): 824
+URL: https://github.com/1mimhe/16bit-CPU
+Description: Computer Architecture Project/ Dr. Beiki/ University of Isfahan 1401_2
+Repo-Count: 213
+
+Name: bittyCore_RISC-V
+Owner: strongwong
+Size (KB): 1366
+URL: https://github.com/strongwong/bittyCore_RISC-V
+Description: This is a bitty CPU core of risc-v architecture, which is currently under development.
+Repo-Count: 214
+
+Name: RISC_V_architecture_design
+Owner: vipul43
+Size (KB): 2250
+URL: https://github.com/vipul43/RISC_V_architecture_design
+Description: designing RISC-V architecture using Verilog HDL in XILINX VIVADO PC SUITE
+Repo-Count: 215
+
+Name: risc-v
+Owner: yaoyaoding
+Size (KB): 10445
+URL: https://github.com/yaoyaoding/risc-v
+Description: The homework of architecture course.
+Repo-Count: 216
+
+Name: ICOM4215-Project
+Owner: mario2904
+Size (KB): 3698
+URL: https://github.com/mario2904/ICOM4215-Project
+Description: Simulation of a subset of the ARM architecture using Verilog.
+Repo-Count: 217
+
+Name: MIPS-Microsystems
+Owner: SilenceX12138
+Size (KB): 9227
+URL: https://github.com/SilenceX12138/MIPS-Microsystems
+Description: A computer system containing CPU, OS and Compiler under MIPS architecture.
+Repo-Count: 218
+
+Name: Harvard-Architecture-MIPS-based-CPU-series
+Owner: WinstonLiyt
+Size (KB): 2210
+URL: https://github.com/WinstonLiyt/Harvard-Architecture-MIPS-based-CPU-series
+Description: Harward Architecture Mips-based CPU series for Course 100656 Project
+Repo-Count: 219
+
+Name: MIPS-32-bit-Single_Cycle_Architecture_Implementation
+Owner: jogeshsingh
+Size (KB): 81
+URL: https://github.com/jogeshsingh/MIPS-32-bit-Single_Cycle_Architecture_Implementation
+Description: None
+Repo-Count: 220
+
+Name: mips32-cpu
+Owner: xinoip
+Size (KB): 765
+URL: https://github.com/xinoip/mips32-cpu
+Description: MIPS Architecture 32 bit CPU in Verilog Quartus
+Repo-Count: 221
+
+Name: 16-bit-MIPS-CPU
+Owner: okantorun
+Size (KB): 1532
+URL: https://github.com/okantorun/16-bit-MIPS-CPU
+Description: Implementation of MIPS architecture using Quartus II and Verilog
+Repo-Count: 222
+
+Name: hwdev
+Owner: timgasser
+Size (KB): 1571
+URL: https://github.com/timgasser/hwdev
+Description: Collection of HW designs for MIPS I core, PSX architecture and Digilent Nexys
+Repo-Count: 223
+
+Name: Pipelined-CPU
+Owner: dbaeka
+Size (KB): 479
+URL: https://github.com/dbaeka/Pipelined-CPU
+Description: Unconventional MIPS Architecture CPU with Pipeline structure with fewer stalls and advanced units to ensure smallest possible CPI. Designed in Verilog and contains simulation and implementation for Xilinx Basys 3 board
+Repo-Count: 224
+
+Name: mips2-c-os-II
+Owner: WinstonLiyt
+Size (KB): 51439
+URL: https://github.com/WinstonLiyt/mips2-c-os-II
+Description: Porting µC/OS-II to the NEXYS DDR4 Development Board using Enhanced OpenMIPS Architecture for Course 10022502 Project
+Repo-Count: 225
+
+Name: MIPS_CPU
+Owner: IshMehta
+Size (KB): 55
+URL: https://github.com/IshMehta/MIPS_CPU
+Description: Designed a simplified version of a 5 stage pipelined CPU based on the 32 bit MIPS RISC instruction-set architecture (ISA)
+Repo-Count: 226
+
+Name: 8-bits-RISC-CPU-Verilog
+Owner: liuqdev
+Size (KB): 7421
+URL: https://github.com/liuqdev/8-bits-RISC-CPU-Verilog
+Description: Architecture and Verilog Implementation of 8-bits RISC CPU based on FSM. 基于有限状态机的8位RISC（精简指令集）CPU（中央处理器）简单结构和Verilog实现。
+Repo-Count: 227
+
+Name: v8cpu
+Owner: vsergeev
+Size (KB): 15
+URL: https://github.com/vsergeev/v8cpu
+Description: v8cpu is a simple multi-cycle von Neumann architecture 8-bit CPU in under 500 lines of Verilog.
+Repo-Count: 228
+
+Name: 8-Bit-Von-Neumann-Architecture-Based-Computer-Design-in-Verilog
+Owner: Pranav-Varma-24-01-2003
+Size (KB): 51
+URL: https://github.com/Pranav-Varma-24-01-2003/8-Bit-Von-Neumann-Architecture-Based-Computer-Design-in-Verilog
+Description: None
+Repo-Count: 229
+
+Name: SoomRV
+Owner: mathis-s
+Size (KB): 11899
+URL: https://github.com/mathis-s/SoomRV
+Description: A simple superscalar out-of-order RISC-V (micro)processor
+Repo-Count: 230
+
+Name: DRIM-S
+Owner: ic-lab-duth
+Size (KB): 1108
+URL: https://github.com/ic-lab-duth/DRIM-S
+Description: DUTH RISC-V Superscalar Microprocessor
+Repo-Count: 231
+
+Name: RISC-V-Vector-Processor
+Owner: martinriis
+Size (KB): 26
+URL: https://github.com/martinriis/RISC-V-Vector-Processor
+Description: 256-bit vector processor based on the RISC-V vector (V) extension
+Repo-Count: 232
+
+Name: MPSoC-DV
+Owner: PacoReinaCampo
+Size (KB): 41165
+URL: https://github.com/PacoReinaCampo/MPSoC-DV
+Description: Multi-Processor System on Chip verified with UVM/OSVVM/FV
+Repo-Count: 233
+
+Name: tiny5
+Owner: xerpi
+Size (KB): 122
+URL: https://github.com/xerpi/tiny5
+Description: RISC-V Processor Implementation (RV32IM, TileLink-UL)
+Repo-Count: 234
+
+Name: PU-RISCV
+Owner: PacoReinaCampo
+Size (KB): 63874
+URL: https://github.com/PacoReinaCampo/PU-RISCV
+Description: Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
+Repo-Count: 235
+
+Name: DRIM
+Owner: ic-lab-duth
+Size (KB): 304
+URL: https://github.com/ic-lab-duth/DRIM
+Description: DUTH RISC-V Microprocessor
+Repo-Count: 236
+
+Name: RISC-V-Pipelined-Processor
+Owner: AkeelMedina22
+Size (KB): 22
+URL: https://github.com/AkeelMedina22/RISC-V-Pipelined-Processor
+Description: A Verilog based 5-stage fully functional pipelined RISC-V Processor code.
+Repo-Count: 237
+
+Name: Projeto_IH_RISC-V
+Owner: nathaliafab
+Size (KB): 24202
+URL: https://github.com/nathaliafab/Projeto_IH_RISC-V
+Description: Arquivos base para o projeto da disciplina Infraestrutura de Hardware (IF674) no CIn-UFPE.
+Repo-Count: 238
+
+Name: diablo
+Owner: skudlur
+Size (KB): 254
+URL: https://github.com/skudlur/diablo
+Description: diablo is an Out-Of-Order 64-bit RISC-V processor. 
+Repo-Count: 239
+
+Name: procyon
+Owner: 0ctobyte
+Size (KB): 5054
+URL: https://github.com/0ctobyte/procyon
+Description: Procyon is the brightest star in the constellation of Canis Minor. But it's also the name of my RISC-V out-of-order processor.
+Repo-Count: 240
+
+Name: MPSoC-RISCV
+Owner: PacoReinaCampo
+Size (KB): 33224
+URL: https://github.com/PacoReinaCampo/MPSoC-RISCV
+Description: Multi-Processor System on Chip with RISCV-32 / RISCV-64 / RISCV-128
+Repo-Count: 241
+
+Name: project-v-open
+Owner: jieltan
+Size (KB): 300
+URL: https://github.com/jieltan/project-v-open
+Description: This is a pipelined in-order RISC-V processor that can run RV-I and part of RV-M instructions.
+Repo-Count: 242
+
+Name: RISC-V-PipeLine
+Owner: yifax
+Size (KB): 2357
+URL: https://github.com/yifax/RISC-V-PipeLine
+Description: SystemVerilog realization of RISC-V processor
+Repo-Count: 243
+
+Name: RISC-V-Pipeline
+Owner: estufa-cin-ufpe
+Size (KB): 2752
+URL: https://github.com/estufa-cin-ufpe/RISC-V-Pipeline
+Description: 32-bit 5-stage pipelined RISC-V processor in SystemVerilog
+Repo-Count: 244
+
+Name: PU-DV
+Owner: PacoReinaCampo
+Size (KB): 16839
+URL: https://github.com/PacoReinaCampo/PU-DV
+Description: Processing Unit verified with UVM/OSVVM/FV
+Repo-Count: 245
+
+Name: RISC-V-RV32I-MultiCycle
+Owner: wdevore
+Size (KB): 4999
+URL: https://github.com/wdevore/RISC-V-RV32I-MultiCycle
+Description: An intuitive multi-cycle RISC-V RV32I soft-core processor
+Repo-Count: 246
+
+Name: RISCV-Processor
+Owner: alfadelta10010
+Size (KB): 8897
+URL: https://github.com/alfadelta10010/RISCV-Processor
+Description: Single Stage RISC-V 32-bit Processor made in RISC-V Lab UE21EC352A - RISC-V Architecture
+Repo-Count: 247
+
+Name: alpha-processor
+Owner: alfadelta10010
+Size (KB): 8873
+URL: https://github.com/alfadelta10010/alpha-processor
+Description: Basic Single Stage RISC-V 32-bit processor
+Repo-Count: 248
+
+Name: RV32I
+Owner: HarieshAnbalagan
+Size (KB): 401
+URL: https://github.com/HarieshAnbalagan/RV32I
+Description: Minimalistic RV32I RISC-V Processor in System Verilog
+Repo-Count: 249
+
+Name: Zacore
+Owner: JZJisawesome
+Size (KB): 20
+URL: https://github.com/JZJisawesome/Zacore
+Description: Performant RISC-V Processing (Mirror of git.jekel.ca/JZJ/Zacore)
+Repo-Count: 250
+
+Name: riscv
+Owner: dpimley
+Size (KB): 36
+URL: https://github.com/dpimley/riscv
+Description: RISC-V based processor
+Repo-Count: 251
+
+Name: RISCV-Vector-Processor
+Owner: PrashanthHC16
+Size (KB): 6
+URL: https://github.com/PrashanthHC16/RISCV-Vector-Processor
+Description: None
+Repo-Count: 252
+
+Name: risc-v
+Owner: anuragktl
+Size (KB): 21
+URL: https://github.com/anuragktl/risc-v
+Description: RISC-V pipeline processor with Hazard Detection Unit and Forwarding Unit. Pipeline stall for 2 clocks occur only in case of RAW dependency. 
+Repo-Count: 253
+
+Name: RISC-V
+Owner: mmzeynalli
+Size (KB): 363
+URL: https://github.com/mmzeynalli/RISC-V
+Description: A simple 32-bit 5-stage RISC-V processor in SystemVerilog based on the book Computer Organization and Design by Patterson & Hennesy. Inspired by https://github.com/masoud-ata/PH-RISC-V
+Repo-Count: 254
+
+Name: unicycle-processor-risc-v-rv32i
+Owner: cdlavila
+Size (KB): 11
+URL: https://github.com/cdlavila/unicycle-processor-risc-v-rv32i
+Description: This is a SystemVerilog implementation of the Unicycle RISC-V RV32I processor and this was the final project for Computer Architecture class.
+Repo-Count: 255
+
+Name: leve
+Owner: ruly-rudel
+Size (KB): 747
+URL: https://github.com/ruly-rudel/leve
+Description: tiny RISC-V RV64G processor
+Repo-Count: 256
+
+Name: RISC-V-Single-cycle-processor
+Owner: Bloodslayer7
+Size (KB): 7
+URL: https://github.com/Bloodslayer7/RISC-V-Single-cycle-processor
+Description: Implementation of single cycle RISC-V processor
+Repo-Count: 257
+
+Name: srvio
+Owner: mfkiwl
+Size (KB): 16164
+URL: https://github.com/mfkiwl/srvio
+Description: Synthesizeble Risc-V In-order Processor
+Repo-Count: 258
+
+Name: RISC-V-Single-cycle
+Owner: mehhdiii
+Size (KB): 5
+URL: https://github.com/mehhdiii/RISC-V-Single-cycle
+Description: Single cycle implementation of RISC-V processor
+Repo-Count: 259
+
+Name: risc-v-processor-sv
+Owner: pastchick3
+Size (KB): 1222
+URL: https://github.com/pastchick3/risc-v-processor-sv
+Description: A simple RISC-V processor for learning, written in SystemVerilog.
+Repo-Count: 260
+
+Name: RISC-V_CPU
+Owner: jstalex
+Size (KB): 185
+URL: https://github.com/jstalex/RISC-V_CPU
+Description: Simple single-cycle processor based on RISC-V architecture
+Repo-Count: 261
+
+Name: RISC-V-Multi-Cycle-Processor
+Owner: ParsaJahantab
+Size (KB): 699
+URL: https://github.com/ParsaJahantab/RISC-V-Multi-Cycle-Processor
+Description: A multi-cycle processor in SystemVerilog using the RISC-V architecture. It includes modular components like an ALU, memory, and control logic, with test cases for verification.
+Repo-Count: 262
+
+Name: PillowCore-RISC-V-Processors
+Owner: AndrewJones-PSU
+Size (KB): 4
+URL: https://github.com/AndrewJones-PSU/PillowCore-RISC-V-Processors
+Description: None
+Repo-Count: 263
+
+Name: Poorly-made-Processor
+Owner: vbnqwe
+Size (KB): 22161
+URL: https://github.com/vbnqwe/Poorly-made-Processor
+Description: An attempt at making a pipelined, superscalar Risc V processor. An attempt at out of order instruction execution as well.
+Repo-Count: 264
+
+Name: RISC-V-single-cycle-processor-according-Hennessy-Patterson
+Owner: sachin2
+Size (KB): 166
+URL: https://github.com/sachin2/RISC-V-single-cycle-processor-according-Hennessy-Patterson
+Description: The design implements a single-cycle RISC-V processor, according to the Hennessy-Patterson architecture.  RTL designed using SystemVerilog and achieved Synthesis Flow using Xilinx Vivado 2023.2.
+Repo-Count: 265
+
+Name: RISC-V_for_R
+Owner: RohithNagesh
+Size (KB): 6
+URL: https://github.com/RohithNagesh/RISC-V_for_R
+Description: System Verilog code for RISC-V 32bit processor which can execute only R-type instruction
+Repo-Count: 266
+
+Name: simple-superscalar-riscv-core
+Owner: gsmark36
+Size (KB): 1301
+URL: https://github.com/gsmark36/simple-superscalar-riscv-core
+Description: Very simple RISC-V processor core that supports RV32I. Extended with in-order superscalar.
+Repo-Count: 267
+
+Name: RISC4R
+Owner: yagnavivek
+Size (KB): 5
+URL: https://github.com/yagnavivek/RISC4R
+Description: This is a RISC-V processor that is built only for R-Type instructions
+Repo-Count: 268
+
+Name: riscv
+Owner: faiq-i
+Size (KB): 23
+URL: https://github.com/faiq-i/riscv
+Description: A SystemVerilog implementation of a simple processor working for the RISC-V ISA. Currently, only the base instruction set is implemented fully and a UART peripheral is fitted in as well. Later extensions are ongoing and will be updated in this repository.
+Repo-Count: 269
+
+Name: axi-crossbar
+Owner: dpretet
+Size (KB): 303
+URL: https://github.com/dpretet/axi-crossbar
+Description: An AXI4 crossbar implementation in SystemVerilog
+Repo-Count: 270
+
+Name: Pipelined-ARM-processor
+Owner: NadaAdelIsmailM
+Size (KB): 17
+URL: https://github.com/NadaAdelIsmailM/Pipelined-ARM-processor
+Description: This is an implement the pipelined ARM processor using system Verilog.
+Repo-Count: 271
+
+Name: mips-processor-simulator
+Owner: Elzawawy
+Size (KB): 1106
+URL: https://github.com/Elzawawy/mips-processor-simulator
+Description: A simplified MIPS machine simulator using SystemVerilog, developed with three different micro-architectures: single-cycle, multi-cycle and pipelined.
+Repo-Count: 272
+
+Name: fpga-mips
+Owner: 0n1shi
+Size (KB): 956
+URL: https://github.com/0n1shi/fpga-mips
+Description: MIPS architecure processor on Intel FPGA.
+Repo-Count: 273
+
+Name: 7-stage-sequential-four-issue-superscalar-MIPS-processor-design
+Owner: IteratorandIterator
+Size (KB): 202
+URL: https://github.com/IteratorandIterator/7-stage-sequential-four-issue-superscalar-MIPS-processor-design
+Description: 7-stage sequential four-issue superscalar MIPS processor design
+Repo-Count: 274
+
+Name: picoMIPS
+Owner: karthik-0398
+Size (KB): 17340
+URL: https://github.com/karthik-0398/picoMIPS
+Description: picoMIPS processor doing affine transformation
+Repo-Count: 275
+
+Name: mips-pro-adam
+Owner: PXVI
+Size (KB): 230
+URL: https://github.com/PXVI/mips-pro-adam
+Description: It's a simple verilog based MIPS microarchitecture hardware design.
+Repo-Count: 276
+
+Name: MIPS-CPU
+Owner: jhorwitz828
+Size (KB): 144
+URL: https://github.com/jhorwitz828/MIPS-CPU
+Description: Final MIPS processor created for my COMP 541 (Digital Logic) Course at UNC Chapel Hill
+Repo-Count: 277
+
+Name: Implementation-of-MIPS-32-RISC-Processor-using-Verilog-programming
+Owner: Ankitay07
+Size (KB): 10
+URL: https://github.com/Ankitay07/Implementation-of-MIPS-32-RISC-Processor-using-Verilog-programming
+Description: None
+Repo-Count: 278
+
+Name: Mips-Processor
+Owner: CS-LucasGuimaraes
+Size (KB): 199
+URL: https://github.com/CS-LucasGuimaraes/Mips-Processor
+Description: None
+Repo-Count: 279
+
+Name: MIPS-Processor
+Owner: hythzz
+Size (KB): 4349
+URL: https://github.com/hythzz/MIPS-Processor
+Description: MIPS Processor Verilog Design
+Repo-Count: 280
+
+Name: Sistema_Mem_Charles_Ezra
+Owner: EzraCharles
+Size (KB): 5
+URL: https://github.com/EzraCharles/Sistema_Mem_Charles_Ezra
+Description: Memory System of MIPS processor
+Repo-Count: 281
+
+Name: Efficient_Pipelined_MIPS32_Processor
+Owner: HummockHamek
+Size (KB): 9
+URL: https://github.com/HummockHamek/Efficient_Pipelined_MIPS32_Processor
+Description: None
+Repo-Count: 282
+
+Name: pipelined-mips-processor
+Owner: burneyh
+Size (KB): 9
+URL: https://github.com/burneyh/pipelined-mips-processor
+Description: A pipelined MIPS Processor with 5 stages written in SystemVerilog.
+Repo-Count: 283
+
+Name: MIPS-32-Processor
+Owner: ChaitanyaSadhan
+Size (KB): 8
+URL: https://github.com/ChaitanyaSadhan/MIPS-32-Processor
+Description: None
+Repo-Count: 284
+
+Name: MIPS_32_PROCESSOR
+Owner: pmeghana23
+Size (KB): 10
+URL: https://github.com/pmeghana23/MIPS_32_PROCESSOR
+Description: None
+Repo-Count: 285
+
+Name: MIPS-32-PROCESSOR
+Owner: KalamatiGowthami
+Size (KB): 7
+URL: https://github.com/KalamatiGowthami/MIPS-32-PROCESSOR
+Description: None
+Repo-Count: 286
+
+Name: MIPS_32_Processor
+Owner: surendrayerragorla
+Size (KB): 11
+URL: https://github.com/surendrayerragorla/MIPS_32_Processor
+Description: None
+Repo-Count: 287
+
+Name: simple_mips_processor
+Owner: ThaysonScript
+Size (KB): 10
+URL: https://github.com/ThaysonScript/simple_mips_processor
+Description: None
+Repo-Count: 288
+
+Name: single-cycle-mips
+Owner: burneyh
+Size (KB): 9
+URL: https://github.com/burneyh/single-cycle-mips
+Description: A sincgle cycle MIPS processor written in SystemVerilog.
+Repo-Count: 289
+
+Name: Mips-Single-Cycle-Processor
+Owner: Monthlyaway
+Size (KB): 82
+URL: https://github.com/Monthlyaway/Mips-Single-Cycle-Processor
+Description: Implement mips single cycle processor in SystemVerilog. Based on Digital Design and Computer Architecture (2nd Ed)
+Repo-Count: 290
+
+Name: MIPS-32-RISC-Processor-using-Verilog
+Owner: Sush7658
+Size (KB): 9
+URL: https://github.com/Sush7658/MIPS-32-RISC-Processor-using-Verilog
+Description: None
+Repo-Count: 291
+
+Name: cse-bubble
+Owner: vakshit
+Size (KB): 275
+URL: https://github.com/vakshit/cse-bubble
+Description: A basic processor written in MIPS Assembly to support basic operations like arithmatic operations and conditional branching.
+Repo-Count: 292
+
+Name: TinyMCU
+Owner: fsaev
+Size (KB): 35
+URL: https://github.com/fsaev/TinyMCU
+Description: A tiny custom made 8-bit processor with MMIO peripherals, made for Xilinx FPGA
+Repo-Count: 293
+
+Name: PU-MSP430
+Owner: PacoReinaCampo
+Size (KB): 23756
+URL: https://github.com/PacoReinaCampo/PU-MSP430
+Description: Processing Unit with MSP430-16
+Repo-Count: 294
+
+Name: 16-bit_Processor_Core
+Owner: Kavi91
+Size (KB): 2804
+URL: https://github.com/Kavi91/16-bit_Processor_Core
+Description: The primary objective of this project revolves around the development of a 16-bit instruction set processor. 
+Repo-Count: 295
+
+Name: 16BitNotRISC
+Owner: jakemckenzie
+Size (KB): 2960
+URL: https://github.com/jakemckenzie/16BitNotRISC
+Description: A 16 bit processor (not RISC) with six instructions: noop, store, load, add, subtract, halt.
+Repo-Count: 296
+
+Name: FPGA-MadNES
+Owner: datamaskinprosjekt
+Size (KB): 223
+URL: https://github.com/datamaskinprosjekt/FPGA-MadNES
+Description: A 480p (VGA) 16 bit sprite rendering processing unit
+Repo-Count: 297
+
+Name: ARM-Microprocessor
+Owner: rn00175
+Size (KB): 37
+URL: https://github.com/rn00175/ARM-Microprocessor
+Description: Basic 10 Instruction, Pipelined ARM microprocessor Simulation adapted from ECE469 Labs
+Repo-Count: 298
+
+Name: ComputerArchitecture
+Owner: sparshgup
+Size (KB): 4118
+URL: https://github.com/sparshgup/ComputerArchitecture
+Description: Impletations of Computer Architecture components and RISC-V CPU (SystemVerilog)
+Repo-Count: 299
+
+Name: RISC-V-Single-Cycle
+Owner: Biggo03
+Size (KB): 440
+URL: https://github.com/Biggo03/RISC-V-Single-Cycle
+Description: This is the implementation of a single-cycle RISC-V computer using Verilog. It uses the microarchitecture provided by Sarah L. Harris and David Harris in "Digital Design and Computer Architecture RISC-V Edition" as a base, and adds functionality on top of it.
+Repo-Count: 300
+
+Name: MIPS_Single_Cycle_Charles_Ezra
+Owner: EzraCharles
+Size (KB): 12
+URL: https://github.com/EzraCharles/MIPS_Single_Cycle_Charles_Ezra
+Description: MIPS implementation of computer architecture from Bootcamp Pre-Silicon Validation by ITESO and INTEL
+Repo-Count: 301
+
+Name: fpga_mafia
+Owner: FPGA-MAFIA
+Size (KB): 28744
+URL: https://github.com/FPGA-MAFIA/fpga_mafia
+Description: Designing a Multi-Agent Fabric Integration Architecture to run on de10-lite FPGA. 
+Repo-Count: 302
+
+Name: FlexRV32
+Owner: andreili
+Size (KB): 1312
+URL: https://github.com/andreili/FlexRV32
+Description: The second implementation of RISC-V architecture, step-by-step.
+Repo-Count: 303
+
+Name: RISC-V-core
+Owner: andreili
+Size (KB): 3294
+URL: https://github.com/andreili/RISC-V-core
+Description: My implementation of a RISC-V architecture
+Repo-Count: 304
+
+Name: RISC-V_based_CPU
+Owner: MIET-APS-Labs
+Size (KB): 338
+URL: https://github.com/MIET-APS-Labs/RISC-V_based_CPU
+Description: Creating my own 32 bit ALU based on RISC-V architecture, extended with simple SIMD commands
+Repo-Count: 305
+
+Name: otter-mcu
+Owner: skyfenton
+Size (KB): 14565
+URL: https://github.com/skyfenton/otter-mcu
+Description: OTTER microcomputing unit implementing RISC-V architecture (with some custom instructions) to be deployed to a Artix-7 Baysis 3 FPGA
+Repo-Count: 306
+
+Name: vlsi-bitslice-divider-datapath
+Owner: SamyuelDanyo
+Size (KB): 1001
+URL: https://github.com/SamyuelDanyo/vlsi-bitslice-divider-datapath
+Description: 8-Bit divider datapath system design using bitslice VLSI technique. Custom cell library, bitslice architecture and control ASM design.
+Repo-Count: 307
+
+Name: Hazard3
+Owner: Wren6991
+Size (KB): 4179
+URL: https://github.com/Wren6991/Hazard3
+Description: 3-stage RV32IMACZb* processor with debug
+Repo-Count: 308
+
+Name: VSDBabySoC
+Owner: manili
+Size (KB): 12081
+URL: https://github.com/manili/VSDBabySoC
+Description: VSDBabySoC is a small mixed-signal SoC including PLL, DAC, and a RISCV-based processor named RVMYTH.
+Repo-Count: 309
+
+Name: HW
+Owner: LCAI-TIHU
+Size (KB): 49242
+URL: https://github.com/LCAI-TIHU/HW
+Description: LCAI-TIHU HW is an AI inference processor which is comprised of RISC-V cpu, nvdla, NoC bus, PCIe module, DDR, SRAM, bootROM, DMA and peripherals.
+Repo-Count: 310
+
+Name: 21Summer-VE370-Intro-to-Computer-Organization-Projects
+Owner: explcre
+Size (KB): 12180
+URL: https://github.com/explcre/21Summer-VE370-Intro-to-Computer-Organization-Projects
+Description: 21Summer-VE370-Intro-to-Computer-Organization-Projects:     -Project1: RISC-V Assembly, simluating c code.      -Project2: 1.RISC-V64 single cycle processor. 2.RISC-V64 five-stage pipelined processor.     -Project3: Virtual memory, TLB, cache, memory simulator.      -Project4: Literature review on Computer Organization.
+Repo-Count: 311
+
+Name: ravenna_standalone
+Owner: RTimothyEdwards
+Size (KB): 18491
+URL: https://github.com/RTimothyEdwards/ravenna_standalone
+Description: A lightweight version of the efabless Ravenna RISC-V processor chip design files for public access
+Repo-Count: 312
+
+Name: RV32I_Processor
+Owner: vSasakiv
+Size (KB): 6927
+URL: https://github.com/vSasakiv/RV32I_Processor
+Description: Risc-V 32i processor written in the Verilog HDL
+Repo-Count: 313
+
+Name: riscv-contract-synthesis
+Owner: hw-sw-contracts
+Size (KB): 19697
+URL: https://github.com/hw-sw-contracts/riscv-contract-synthesis
+Description: A toolchain to synthesize leakage contracts automatically for RISC-V open-source processors.
+Repo-Count: 314
+
+Name: uranium-235
+Owner: uni-v
+Size (KB): 688
+URL: https://github.com/uni-v/uranium-235
+Description: An open-source RISC-V processor.
+Repo-Count: 315
+
+Name: krv_m0
+Owner: wangk2017
+Size (KB): 13273
+URL: https://github.com/wangk2017/krv_m0
+Description: A RISC-V based processor
+Repo-Count: 316
+
+Name: wrapped_ibnalhaytham
+Owner: sfmth
+Size (KB): 47620
+URL: https://github.com/sfmth/wrapped_ibnalhaytham
+Description: RISC-V based 32-bit pipelined processor + memory controler
+Repo-Count: 317
+
+Name: RISC-V_single_cycle_processor
+Owner: ARX-0
+Size (KB): 61
+URL: https://github.com/ARX-0/RISC-V_single_cycle_processor
+Description: This is a implementation of a RISC-V single cycle processor
+Repo-Count: 318
+
+Name: RTL-RISC-V-processor
+Owner: namn-grg
+Size (KB): 2221
+URL: https://github.com/namn-grg/RTL-RISC-V-processor
+Description: RTL Design of 5-stage pipelined RISC-V processor in RTL
+Repo-Count: 319
+
+Name: contractgen
+Owner: gdnmhr
+Size (KB): 19947
+URL: https://github.com/gdnmhr/contractgen
+Description: Automatic Inference of Hardware-Software Contracts for RISC-V Processors
+Repo-Count: 320
+
+Name: rvcore_chip2
+Owner: kisek
+Size (KB): 186185
+URL: https://github.com/kisek/rvcore_chip2
+Description: RISC-V Processor
+Repo-Count: 321
+
+Name: intra_oral_sensor
+Owner: evolvecmos
+Size (KB): 124029
+URL: https://github.com/evolvecmos/intra_oral_sensor
+Description: CMOS Photodetector Sensor with RISC-V Processor
+Repo-Count: 322
+
+Name: sc-rv-tt03-block1
+Owner: diferential
+Size (KB): 45
+URL: https://github.com/diferential/sc-rv-tt03-block1
+Description: TinyTapeout03 Scan chain based Risc V processor -- block 1 clocking
+Repo-Count: 323
+
+Name: sc-rv-tt03-block4
+Owner: diferential
+Size (KB): 33
+URL: https://github.com/diferential/sc-rv-tt03-block4
+Description: Public TinyTapeout03 Scan chain based Risc V processor -- block 4 ALU
+Repo-Count: 324
+
+Name: sc-rv-tt03-block2
+Owner: diferential
+Size (KB): 36
+URL: https://github.com/diferential/sc-rv-tt03-block2
+Description:  Public TinyTapeout03 Scan chain based Risc V processor -- block 2 instructions
+Repo-Count: 325
+
+Name: sc-rv-tt03-block3
+Owner: diferential
+Size (KB): 37
+URL: https://github.com/diferential/sc-rv-tt03-block3
+Description:  Public TinyTapeout03 Scan chain based Risc V processor -- block 3 register file
+Repo-Count: 326
+
+Name: whitedwarf
+Owner: valeriopagliarino
+Size (KB): 11926
+URL: https://github.com/valeriopagliarino/whitedwarf
+Description: Whitedwarf is a tiny chip embedding a RISC-V core and a DSP for processing waveform-sampled signals from nuclear physics detector
+Repo-Count: 327
+
+Name: arm_vhdl
+Owner: kisssko
+Size (KB): 892
+URL: https://github.com/kisssko/arm_vhdl
+Description: Portable FPGA project based on the ARM DesignStart bundle with ARM Cortex-M3 processor
+Repo-Count: 328
+
+Name: ARM32-in-Verilog
+Owner: ssigurdsson
+Size (KB): 469
+URL: https://github.com/ssigurdsson/ARM32-in-Verilog
+Description: 5-stage pipelined ARM32 processor in Verilog
+Repo-Count: 329
+
+Name: Superscalar_Pipeline_Processor
+Owner: dvanmali
+Size (KB): 888
+URL: https://github.com/dvanmali/Superscalar_Pipeline_Processor
+Description: Design consists of a 32-bit MIPS superscalar pipeline processor in functional Verilog. Runs a cache based memory system, a branch predictor, and a 2-way superscalar pipeline processor issuing two instructions at a time. Intended for creators Yiming Gan and Dylan Vanmali.
+Repo-Count: 330
+
+Name: cMIPS
+Owner: mongrelgem
+Size (KB): 4285
+URL: https://github.com/mongrelgem/cMIPS
+Description: A complete classic 5-stage pipeline MIPS 32-bit processor, including a 2-bit branch predictor, a branch prediction buffer and a direct-mapped cache.
+Repo-Count: 331
+
+Name: Multicycle_MIPS
+Owner: lucasrangit
+Size (KB): 3792
+URL: https://github.com/lucasrangit/Multicycle_MIPS
+Description: Verilog Multicycle MIPS processor created for California State University, Fullerton EE557
+Repo-Count: 332
+
+Name: 32-bit-MIPS-based-RISC-processor
+Owner: S-E-N-S-O-H-A-M
+Size (KB): 335
+URL: https://github.com/S-E-N-S-O-H-A-M/32-bit-MIPS-based-RISC-processor
+Description: None
+Repo-Count: 333
+
+Name: Strontium
+Owner: MaxMorning
+Size (KB): 83
+URL: https://github.com/MaxMorning/Strontium
+Description: A MIPS Pipeline Processor
+Repo-Count: 334
+
+Name: MIPS-Singlecycle-processor
+Owner: KianRafati
+Size (KB): 114
+URL: https://github.com/KianRafati/MIPS-Singlecycle-processor
+Description: A Singlecycle processor coded with Verilog
+Repo-Count: 335
+
+Name: Single-Cycle-MIPS-Processor
+Owner: senturkoguzhan
+Size (KB): 72
+URL: https://github.com/senturkoguzhan/Single-Cycle-MIPS-Processor
+Description: None
+Repo-Count: 336
+
+Name: 32-Bit-MIPS-Test
+Owner: napen
+Size (KB): 35294
+URL: https://github.com/napen/32-Bit-MIPS-Test
+Description: testing out Efabless with old 32 Bit MIPS Processor Design
+Repo-Count: 337
+
+Name: 1-cycle-5-Stages-MIPS-Processor-Using-Verilog-HDL
+Owner: ZKBig
+Size (KB): 22
+URL: https://github.com/ZKBig/1-cycle-5-Stages-MIPS-Processor-Using-Verilog-HDL
+Description: This project implements a pipelined processor by subdividing the single-cycle processor into five pipeline stages so that five instructions can execute simultaneously. 
+Repo-Count: 338
+
+Name: MIPS_Verilog
+Owner: snowman0935
+Size (KB): 625
+URL: https://github.com/snowman0935/MIPS_Verilog
+Description: non-pipelined MIPS processor which will take as input- the instruction codes for an N factorial program and produces the necessary output
+Repo-Count: 339
+
+Name: upb_natalius_soc
+Owner: fguzman82
+Size (KB): 59066
+URL: https://github.com/fguzman82/upb_natalius_soc
+Description: 8 bit RISC Processor for SKY 130nm process
+Repo-Count: 340
+
+Name: 16bit-pipelined-RISC-processor-sky130
+Owner: 7vik-g
+Size (KB): 98385
+URL: https://github.com/7vik-g/16bit-pipelined-RISC-processor-sky130
+Description: None
+Repo-Count: 341
+
+Name: 16bit-pipelined-RISC-processor-gf180
+Owner: 7vik-g
+Size (KB): 81865
+URL: https://github.com/7vik-g/16bit-pipelined-RISC-processor-gf180
+Description: None
+Repo-Count: 342
+
+Name: Building-a-Processor-from-scratch
+Owner: AbhishekChowdhury1312
+Size (KB): 11
+URL: https://github.com/AbhishekChowdhury1312/Building-a-Processor-from-scratch
+Description: Building a 16 bit CPU using verilog
+Repo-Count: 343
+
+Name: -16bit-pipelined-RISC-processor-mpw8
+Owner: 7vik-g
+Size (KB): 85905
+URL: https://github.com/7vik-g/-16bit-pipelined-RISC-processor-mpw8
+Description: None
+Repo-Count: 344
+
+Name: 16-bit-BittyProcessor
+Owner: Kamila3361
+Size (KB): 11926
+URL: https://github.com/Kamila3361/16-bit-BittyProcessor
+Description: my_project
+Repo-Count: 345
+
+Name: risc-v-core
+Owner: shivanishah269
+Size (KB): 4502
+URL: https://github.com/shivanishah269/risc-v-core
+Description: This project was done as a part of RISC-V based MYTH (Microprocessor for you in Thirty Hours) workshop organized by Kunal Ghosh and Steve Hoover
+Repo-Count: 346
+
+Name: RISC-V-CPU-Core
+Owner: ad-astra-et-ultra
+Size (KB): 387
+URL: https://github.com/ad-astra-et-ultra/RISC-V-CPU-Core
+Description: A single cycle MIPS RISC-V CPU Core using Verilog
+Repo-Count: 347
+
+Name: TT02-M0
+Owner: moyesw
+Size (KB): 2754
+URL: https://github.com/moyesw/TT02-M0
+Description: M0: A 16-bit SUBLEQ Microprocessor
+Repo-Count: 348
+
+Name: computer-architecture
+Owner: mbaykenar
+Size (KB): 27631
+URL: https://github.com/mbaykenar/computer-architecture
+Description: This course is given in ERCIYES UNIVERSITY for Spring 2022-2023 semester as a fourth grade lecture. You can find lecture notes, RISC-V assembly codes and Verilog codes related to the course
+Repo-Count: 349
+
+Name: 8-bit-first_multiplier
+Owner: sidhantp1906
+Size (KB): 812
+URL: https://github.com/sidhantp1906/8-bit-first_multiplier
+Description: verilog design of first multiplier design and architecture
+Repo-Count: 350
+
+Name: rsd
+Owner: rsd-devel
+Size (KB): 5281
+URL: https://github.com/rsd-devel/rsd
+Description: RSD: RISC-V Out-of-Order Superscalar Processor
+Repo-Count: 351
+
+Name: Cores-VeeR-EH1
+Owner: chipsalliance
+Size (KB): 18465
+URL: https://github.com/chipsalliance/Cores-VeeR-EH1
+Description: VeeR EH1 core
+Repo-Count: 352
+
+Name: Cores-VeeR-EL2
+Owner: chipsalliance
+Size (KB): 201234
+URL: https://github.com/chipsalliance/Cores-VeeR-EL2
+Description: VeeR EL2 Core
+Repo-Count: 353
+
+Name: muntjac
+Owner: lowRISC
+Size (KB): 966
+URL: https://github.com/lowRISC/muntjac
+Description: 64-bit multicore Linux-capable RISC-V processor
+Repo-Count: 354
+
+Name: BRISKI
+Owner: riadhbenabdelhamid
+Size (KB): 97
+URL: https://github.com/riadhbenabdelhamid/BRISKI
+Description: BRISKI ( Barrel RISC-V for Kilo-core Implementations ) is a fast and compact RISC-V barrel processor core that emphasize high throughput and compute density to increase the amount of cores in many-core design without sacrificing performance.
+Repo-Count: 355
+
+Name: rp32
+Owner: jeras
+Size (KB): 926
+URL: https://github.com/jeras/rp32
+Description: RISC-V processor with CPI=1 (every single instruction executed in a single clock cycle).
+Repo-Count: 356
+
+Name: rip-cpu
+Owner: Reservoir-In-Processor
+Size (KB): 252
+URL: https://github.com/Reservoir-In-Processor/rip-cpu
+Description: "Reservoir in Processor" implemented in SystemVerilog based on RISC-V ISA
+Repo-Count: 357
+
+Name: riscv32-cosim-model
+Owner: ssayin
+Size (KB): 4579
+URL: https://github.com/ssayin/riscv32-cosim-model
+Description: RISC-V processor co-simulation using SystemVerilog HDL and UVM.
+Repo-Count: 358
+
+Name: RSD-RISC-V-Out-of-Order-Superscalar-Processor
+Owner: wuiw
+Size (KB): 3772
+URL: https://github.com/wuiw/RSD-RISC-V-Out-of-Order-Superscalar-Processor
+Description: None
+Repo-Count: 359
+
+Name: riscvproc
+Owner: AstralVX
+Size (KB): 249
+URL: https://github.com/AstralVX/riscvproc
+Description: RISC-V pipelined processor in SystemVerilog for an FPGA
+Repo-Count: 360
+
+Name: sc-mips
+Owner: OYounis
+Size (KB): 143
+URL: https://github.com/OYounis/sc-mips
+Description: Single-cycle single-core MIPS processor 
+Repo-Count: 361
+
+Name: Simple-Single-Cycled-MIPS-processor
+Owner: nil1g18
+Size (KB): 9
+URL: https://github.com/nil1g18/Simple-Single-Cycled-MIPS-processor
+Description: Implementation of a simple MIPS processor without pipelining on SystemVerilog
+Repo-Count: 362
+
+Name: Fuxi
+Owner: MaxXSoft
+Size (KB): 1726
+URL: https://github.com/MaxXSoft/Fuxi
+Description: Fuxi (伏羲) is a 32-bit pipelined RISC-V processor written in Chisel3.
+Repo-Count: 363
+
+Name: tekno-kizil
+Owner: KASIRGA-KIZIL
+Size (KB): 1120470
+URL: https://github.com/KASIRGA-KIZIL/tekno-kizil
+Description: KASIRGA - KIZIL Takımı Teknofest 2023 Çip Tasarımı - KIZIL İşlemci Projesi
+Repo-Count: 364
+
+Name: phoeniX
+Owner: phoeniX-Digital-Design
+Size (KB): 165760
+URL: https://github.com/phoeniX-Digital-Design/phoeniX
+Description: phoeniX RISC-V Processor
+Repo-Count: 365
+
+Name: ibnalhaytham
+Owner: sfmth
+Size (KB): 1869
+URL: https://github.com/sfmth/ibnalhaytham
+Description: 32-bit RISC-V based processor with memory controler
+Repo-Count: 366
+
+Name: riscvofdm
+Owner: saikat27
+Size (KB): 231
+URL: https://github.com/saikat27/riscvofdm
+Description: An OFDM Accelerator for RISC-V based Processors
+Repo-Count: 367
+
+Name: FYP--Risc-V-32-bit-Matrix-Mac
+Owner: theuppercaseguy
+Size (KB): 747366
+URL: https://github.com/theuppercaseguy/FYP--Risc-V-32-bit-Matrix-Mac
+Description: A risc v based architecture to develop a core/ processor which is capable of Matrix MAC Operations
+Repo-Count: 368
+
+Name: RISC-V
+Owner: Abhay-Rj
+Size (KB): 54
+URL: https://github.com/Abhay-Rj/RISC-V
+Description: Pipelined RV32I Processor
+Repo-Count: 369
+
+Name: 5_Stage_Pipeline_RISCV_Processor
+Owner: geekboi777
+Size (KB): 9596
+URL: https://github.com/geekboi777/5_Stage_Pipeline_RISCV_Processor
+Description: This Project describes a classic 5-stage Pipeline RISC-V Processor with Hazard Detection and Basic vector arithmetic features,  made entirely using Verilog HDL. 
+Repo-Count: 370
+
+Name: DLPR32
+Owner: SeedVGP
+Size (KB): 680
+URL: https://github.com/SeedVGP/DLPR32
+Description: RISC V 32 bit with GRU enable Processor design
+Repo-Count: 371
+
+Name: RISC-V_processor_verilog
+Owner: aditya-singhal
+Size (KB): 31
+URL: https://github.com/aditya-singhal/RISC-V_processor_verilog
+Description: RISC-V base integer instruction set has been implemented in Verilog
+Repo-Count: 372
+
+Name: RISC_V_single_cycle_processor
+Owner: kuhgeork
+Size (KB): 444
+URL: https://github.com/kuhgeork/RISC_V_single_cycle_processor
+Description: RISC V implementation
+Repo-Count: 373
+
+Name: 5-stage-RISC-V-pipelined-processor
+Owner: Sandesh-Ideal
+Size (KB): 49
+URL: https://github.com/Sandesh-Ideal/5-stage-RISC-V-pipelined-processor
+Description: RISC-V processor
+Repo-Count: 374
+
+Name: arRISCado
+Owner: arRISCado
+Size (KB): 4533
+URL: https://github.com/arRISCado/arRISCado
+Description: Um sistema computacional RISC-V
+Repo-Count: 375
+
+Name: RISC-Processor-on-FPGA
+Owner: J-oseph
+Size (KB): 1409
+URL: https://github.com/J-oseph/RISC-Processor-on-FPGA
+Description: Verilog implimentation of a 5-stage RISC-V (-ish) processor
+Repo-Count: 376
+
+Name: Verilog-Project-Development-of-an-8-Bit-RISC-V-Processor
+Owner: Carl98BR
+Size (KB): 476
+URL: https://github.com/Carl98BR/Verilog-Project-Development-of-an-8-Bit-RISC-V-Processor
+Description: None
+Repo-Count: 377
+
+Name: FYP--Risc-V-32-bit-Matrix-Mac
+Owner: fahadmuslim
+Size (KB): 87501
+URL: https://github.com/fahadmuslim/FYP--Risc-V-32-bit-Matrix-Mac
+Description: A risc v based architecture to develop a core/ processor which is capable of Matrix MAC Operations
+Repo-Count: 378
+
+Name: pl-RISC-V-for-the-course
+Owner: gr33nka
+Size (KB): 18
+URL: https://github.com/gr33nka/pl-RISC-V-for-the-course
+Description: Pipeline RISC-V processor for use in the course
+Repo-Count: 379
+
+Name: Single-Cycle-RISC-V-Processor
+Owner: BasmaGFawzy
+Size (KB): 1299
+URL: https://github.com/BasmaGFawzy/Single-Cycle-RISC-V-Processor
+Description: None
+Repo-Count: 380
+
+Name: Single_Cycle_RISC-V_Processor
+Owner: thezhe
+Size (KB): 26
+URL: https://github.com/thezhe/Single_Cycle_RISC-V_Processor
+Description: A processor my partner (Nathan Ackermann) and I created in verilog for our computer organization class. It is compatible with most of the RISC-V base ISA.
+Repo-Count: 381
+
+Name: Abejaruco
+Owner: Beanavil
+Size (KB): 532
+URL: https://github.com/Beanavil/Abejaruco
+Description: Verilog implementation of a 5-stage RISC-V based processor
+Repo-Count: 382
+
+Name: RISC-V
+Owner: kelvin0207
+Size (KB): 1974
+URL: https://github.com/kelvin0207/RISC-V
+Description: A implement of 5-stage RV32I processsor that support M/S/U mode and virtual memory access.
+Repo-Count: 383
+
+Name: FYP--Risc-V-32-bit-Matrix-Mac
+Owner: zaeem-shakir
+Size (KB): 87383
+URL: https://github.com/zaeem-shakir/FYP--Risc-V-32-bit-Matrix-Mac
+Description: A risc v based architecture to develop a core/ processor which is capable of Matrix MAC Operations
+Repo-Count: 384
+
+Name: MIPS-Processor
+Owner: neelkshah
+Size (KB): 141
+URL: https://github.com/neelkshah/MIPS-Processor
+Description: 5-stage pipelined 32-bit MIPS microprocessor in Verilog
+Repo-Count: 385
+
+Name: Uranus
+Owner: ustb-owl
+Size (KB): 8808
+URL: https://github.com/ustb-owl/Uranus
+Description: Uranus MIPS processor by MaxXing & USTB NSCSCC team
+Repo-Count: 386
+
+Name: CPU
+Owner: txstate-pcarch-blue
+Size (KB): 5558
+URL: https://github.com/txstate-pcarch-blue/CPU
+Description: CS3339 Computer Architecture class project - 5 stage MIPS-like processor with forwarding, hazard control, no exception handling.
+Repo-Count: 387
+
+Name: MIRROR-SWAMP
+Owner: nscscc2019
+Size (KB): 75015
+URL: https://github.com/nscscc2019/MIRROR-SWAMP
+Description: MIRROR_SWAMP is a MIPS processor capable of booting linux, and it is specially optimized for DDR3 memory access pattern.
+Repo-Count: 388
+
+Name: Reaper_Processor
+Owner: lucasssvaz
+Size (KB): 12727
+URL: https://github.com/lucasssvaz/Reaper_Processor
+Description: MIPS based 32-bit processor
+Repo-Count: 389
+
+Name: MIPS
+Owner: y3nr1ng
+Size (KB): 8282
+URL: https://github.com/y3nr1ng/MIPS
+Description: Verilog behavioral modeling of a 5-stage pipeline MIPS processor with builtin L1 cache.
+Repo-Count: 390
+
+Name: verilog
+Owner: Alchus
+Size (KB): 80
+URL: https://github.com/Alchus/verilog
+Description: MIPS processor simulated in behavioral Verilog
+Repo-Count: 391
+
+Name: mips
+Owner: luigicfilho
+Size (KB): 15
+URL: https://github.com/luigicfilho/mips
+Description: MIPS Processor
+Repo-Count: 392
+
+Name: MIPS
+Owner: SorianoJuan
+Size (KB): 4441
+URL: https://github.com/SorianoJuan/MIPS
+Description: 32-bit MIPS processor implementation
+Repo-Count: 393
+
+Name: MIPS-Processor
+Owner: Munay-K
+Size (KB): 669
+URL: https://github.com/Munay-K/MIPS-Processor
+Description: Implementation of a processor with the MIPS architecture on the HDL Verilog.
+Repo-Count: 394
+
+Name: MIPS-Single-Cycle-Processor
+Owner: GTU-Undergraduate-Works
+Size (KB): 446
+URL: https://github.com/GTU-Undergraduate-Works/MIPS-Single-Cycle-Processor
+Description: None
+Repo-Count: 395
+
+Name: bubble-pushers
+Owner: mlohstroh
+Size (KB): 121
+URL: https://github.com/mlohstroh/bubble-pushers
+Description: Digital Logic Project - Implementing a MIPS processor in Verilog.
+Repo-Count: 396
+
+Name: MIPS-multicycle
+Owner: saghajani
+Size (KB): 21
+URL: https://github.com/saghajani/MIPS-multicycle
+Description: Implementing Datapath and Controller of MIPS multicycle processor with Verilog
+Repo-Count: 397
+
+Name: MIPS-MultiCycle-Implementation
+Owner: amirhossein-alizad
+Size (KB): 22
+URL: https://github.com/amirhossein-alizad/MIPS-MultiCycle-Implementation
+Description: Multi Cycle Implementation of MIPS processor, a project for Computer Architecture course in University of Tehran
+Repo-Count: 398
+
+Name: simple-processor-design
+Owner: AronGongal
+Size (KB): 24
+URL: https://github.com/AronGongal/simple-processor-design
+Description: A simple, MIPS-based multicycle processor design.
+Repo-Count: 399
+
+Name: MIPS-Processor
+Owner: geetanshkaul
+Size (KB): 141
+URL: https://github.com/geetanshkaul/MIPS-Processor
+Description: 5-stage pipelined 32-bit MIPS microprocessor in Verilog
+Repo-Count: 400
+
+Name: Certified-Preowned-Processor
+Owner: cameronjlarsen
+Size (KB): 384
+URL: https://github.com/cameronjlarsen/Certified-Preowned-Processor
+Description: Single-cycle implementation of a mips processor in verilog
+Repo-Count: 401
+
+Name: Single-Cycle-MIPS32-processor
+Owner: callmebohdan
+Size (KB): 162
+URL: https://github.com/callmebohdan/Single-Cycle-MIPS32-processor
+Description: Single-Cycle MIPS32 processor
+Repo-Count: 402
+
+Name: MIPS_Processor
+Owner: NagireddychandramouliReddy
+Size (KB): 19
+URL: https://github.com/NagireddychandramouliReddy/MIPS_Processor
+Description: Design of 32-bit basic processor unit which decodes the instruction and performs different operations of ALU.
+Repo-Count: 403
+
+Name: mips-processor
+Owner: joey-kilgore
+Size (KB): 48
+URL: https://github.com/joey-kilgore/mips-processor
+Description: None
+Repo-Count: 404
+
+Name: MIPS_Processor
+Owner: CtrlAltCoffee
+Size (KB): 162
+URL: https://github.com/CtrlAltCoffee/MIPS_Processor
+Description: None
+Repo-Count: 405
+
+Name: MIPS-Processor
+Owner: Prashant43226
+Size (KB): 127
+URL: https://github.com/Prashant43226/MIPS-Processor
+Description: None
+Repo-Count: 406
+
+Name: MIPS-Processor-Verification-UVM
+Owner: cp024s
+Size (KB): 34
+URL: https://github.com/cp024s/MIPS-Processor-Verification-UVM
+Description: A 16 bit Five Stage Pipelined MIPS Processor Verification using UVM
+Repo-Count: 407
+
+Name: PA-MIPS-Processor
+Owner: marcigarza
+Size (KB): 2115
+URL: https://github.com/marcigarza/PA-MIPS-Processor
+Description: None
+Repo-Count: 408
+
+Name: mipsprocessor
+Owner: mosukiton
+Size (KB): 59
+URL: https://github.com/mosukiton/mipsprocessor
+Description: Mips 32bit Processor, similar to MIPS I architecture, in single cycle and pipelined
+Repo-Count: 409
+
+Name: SingleCycleProcessorMIPSQuartus
+Owner: agojunior
+Size (KB): 9887
+URL: https://github.com/agojunior/SingleCycleProcessorMIPSQuartus
+Description: Implementation of a single cycle processor for an altera fpga, using quartus.
+Repo-Count: 410
+
+Name: 32bit-MIPS-Processors
+Owner: ssmiftah
+Size (KB): 19
+URL: https://github.com/ssmiftah/32bit-MIPS-Processors
+Description: None
+Repo-Count: 411
+
+Name: Single_Cycle_MIPS_Processor
+Owner: geekboi777
+Size (KB): 2066
+URL: https://github.com/geekboi777/Single_Cycle_MIPS_Processor
+Description: This repository contains the Complete implementation of the Single Cycle MIPS processor using Verilog. The processor supports R-type, I-type, and J-type instructions. The working and waveforms  has been shown with the software Scansion. The waveform focusses on the Register File and the Data Memory visualisation. 
+Repo-Count: 412
+
+Name: HDL-based-MIPS-Processor
+Owner: saisumanthpamujula
+Size (KB): 20
+URL: https://github.com/saisumanthpamujula/HDL-based-MIPS-Processor
+Description: None
+Repo-Count: 413
+
+Name: Final_Year_Project_MIPS_PROCESSOR
+Owner: Prabhatatha
+Size (KB): 30
+URL: https://github.com/Prabhatatha/Final_Year_Project_MIPS_PROCESSOR
+Description: None
+Repo-Count: 414
+
+Name: ece111-fa18-project6
+Owner: swaggarw
+Size (KB): 33
+URL: https://github.com/swaggarw/ece111-fa18-project6
+Description: MIPS Processor with Co-processor 1 (Floating Point Unit) - ECE 111 :: Project 6
+Repo-Count: 415
+
+Name: 32-bit-MIPS-Processor-without-pipelining
+Owner: mahmud624683
+Size (KB): 37
+URL: https://github.com/mahmud624683/32-bit-MIPS-Processor-without-pipelining
+Description: None
+Repo-Count: 416
+
+Name: CSE-331---Computer-Organization-HELLO-MIPS
+Owner: yavuzserdol
+Size (KB): 24
+URL: https://github.com/yavuzserdol/CSE-331---Computer-Organization-HELLO-MIPS
+Description:  The 32-bit MIPS processor fully supporting all core instructions on green card at MIPS book (Single Cycle, Verilog)
+Repo-Count: 417
+
+Name: Computer-Architecture-Labs
+Owner: regalmoix
+Size (KB): 5165
+URL: https://github.com/regalmoix/Computer-Architecture-Labs
+Description: These are Labs (with Solution in Verilog) of CS F342 - BITS Pilani, Goa Campus. The Labs mainly deal with MIPS processors.
+Repo-Count: 418
+
+Name: EEC180-Verilog
+Owner: rithiksachdeva
+Size (KB): 112
+URL: https://github.com/rithiksachdeva/EEC180-Verilog
+Description: This repository contains Verilog modules designed for signal processing and matrix operations. 'task1' performs Multiply-Accumulate (MAC) operations key for filters and transforms. 'task2' and 'task3' utilize MAC units, digital logic components, and RAM for operations on 8-bit signed integer matrices. 
+Repo-Count: 419
+
+Name: 8CPU
+Owner: maxislash
+Size (KB): 325
+URL: https://github.com/maxislash/8CPU
+Description: 8-bit CPU in Verilog
+Repo-Count: 420
+
+Name: 8BitProcessorCircuit_Verilog
+Owner: splAcharya
+Size (KB): 3128
+URL: https://github.com/splAcharya/8BitProcessorCircuit_Verilog
+Description: 8Bit Unsigned Simple Processor Circuit designed using verilog HDL in Xilinx Vivado
+Repo-Count: 421
+
+Name: RISC_CPU
+Owner: pankajk1997
+Size (KB): 667
+URL: https://github.com/pankajk1997/RISC_CPU
+Description: Designing 8-bit mini RISC Processor in Verilog
+Repo-Count: 422
+
+Name: Implementation-of-FIFO-Memory
+Owner: ChetanPrakash057
+Size (KB): 448
+URL: https://github.com/ChetanPrakash057/Implementation-of-FIFO-Memory
+Description: Designed 16 stages and 8-bit data-width FIFO memory using Verilog HDL. First-in, first-out (FIFO) memory chips are used in buffering applications between devices that operate at different speeds or in applications where data must be stored temporarily for further processing.
+Repo-Count: 423
+
+Name: mps
+Owner: jtremesay
+Size (KB): 37
+URL: https://github.com/jtremesay/mps
+Description: An educational 8 bits processor and its toolchain
+Repo-Count: 424
+
+Name: Project-Thistle
+Owner: J-CLANCY
+Size (KB): 9020
+URL: https://github.com/J-CLANCY/Project-Thistle
+Description: Repository for the documentation and RTL implementation of the 8-bit breadboard processor I created during my undergraduate degree.
+Repo-Count: 425
+
+Name: Basic-SIMD-Processor-Verilog-Tutorial
+Owner: zslwyuan
+Size (KB): 1579
+URL: https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial
+Description: Implementation of a simple SIMD processor in Verilog, core of which is a 16-bit SIMD ALU. 2's compliment calculations are implemented in this ALU. The ALU operation will take two clocks. The first clock cycle will be used to load values into the registers. The second will be for performing the operations. 6-bit opcodes are used to select the functions. The instruction code, including the opcode, will be 18-bit.
+Repo-Count: 426
+
+Name: 16bit-RISC-Processor-Design
+Owner: Manoj-97
+Size (KB): 26
+URL: https://github.com/Manoj-97/16bit-RISC-Processor-Design
+Description: The Goal of this project is to design an 16-bit RISC Processor which is capable of handling programs like the Fibonacci number calculator. The Designed processor is then implemented in a Spartan-6 FPGA. The input from the switches (in binary) will be used to find the nth Fibonacci Number, which is displayed in the 7-segments/LED's.
+Repo-Count: 427
+
+Name: CSF342-16bit-Proc
+Owner: anantanurag
+Size (KB): 3175
+URL: https://github.com/anantanurag/CSF342-16bit-Proc
+Description: 16 Bit RISC Processor
+Repo-Count: 428
+
+Name: swt16
+Owner: captaindane
+Size (KB): 1251
+URL: https://github.com/captaindane/swt16
+Description: A 16-bit, 5-stage RISC processor. RTL description in Verilog. Includes assembler, simulator, and example programs.
+Repo-Count: 429
+
+Name: 16bit-RISC-Processor
+Owner: Shashi18
+Size (KB): 24
+URL: https://github.com/Shashi18/16bit-RISC-Processor
+Description: 16bit RISC Processor Verilog
+Repo-Count: 430
+
+Name: RISC16BitProcessor
+Owner: mailmesalah
+Size (KB): 20
+URL: https://github.com/mailmesalah/RISC16BitProcessor
+Description: None
+Repo-Count: 431
+
+Name: mips86
+Owner: Sponk
+Size (KB): 300
+URL: https://github.com/Sponk/mips86
+Description: A MIPS32 compatible microprocessor.
+Repo-Count: 432
+
+Name: mips-microprocessor
+Owner: crisrivlop
+Size (KB): 33
+URL: https://github.com/crisrivlop/mips-microprocessor
+Description: Este proyecto es un microprocesador de instrucciones mips escrito en verilog.
+Repo-Count: 433
+
+Name: simple-microprocessor
+Owner: Maegima
+Size (KB): 62
+URL: https://github.com/Maegima/simple-microprocessor
+Description: A simple microprocessor with instruction set based in the MIPS architecture
+Repo-Count: 434
+
+Name: RISC-V-CPU
+Owner: Jiwhan-Kim
+Size (KB): 97
+URL: https://github.com/Jiwhan-Kim/RISC-V-CPU
+Description: Yonsei Univ. SYS3104 Computer Architecture
+Repo-Count: 435
+
+Name: My-CPU
+Owner: ElegantLin
+Size (KB): 220291
+URL: https://github.com/ElegantLin/My-CPU
+Description: The final project of computer architecture and it is a 5-stage mips CPU implemented by Verilog. 
+Repo-Count: 436
+
+Name: LEG
+Owner: Retr0r0cket
+Size (KB): 51
+URL: https://github.com/Retr0r0cket/LEG
+Description: An 8-bit computer architecture with memory and wide instruction support
+Repo-Count: 437
+
+Name: RISC-V
+Owner: srpoyrek
+Size (KB): 15249
+URL: https://github.com/srpoyrek/RISC-V
+Description: Implementing a five-stage pipeline RSIC-V architecture (RV32I Core instruction set) using Verilog HDL. All the functional modules required including the Hazard detection unit, Forwarding Unit, Branch Prediction, and the Five pipeline stages are simulated and verified the functional testing with test benches on ModelSim.
+Repo-Count: 438
+
+Name: dv-cpu-rv
+Owner: devindang
+Size (KB): 21327
+URL: https://github.com/devindang/dv-cpu-rv
+Description: A harvard architecture CPU based on RISC-V.
+Repo-Count: 439
+
+Name: Single_Cycle_CPU_RISC-V
+Owner: baraba6u
+Size (KB): 460
+URL: https://github.com/baraba6u/Single_Cycle_CPU_RISC-V
+Description: Single-cycle CPU for RISC-V architecture(RV32I)
+Repo-Count: 440
+
+Name: Pipelined_CPU_RISC-V
+Owner: baraba6u
+Size (KB): 728
+URL: https://github.com/baraba6u/Pipelined_CPU_RISC-V
+Description: Pipelined CPU for RISC-V architecture(RV32I)
+Repo-Count: 441
+
+Name: PulsarCPU
+Owner: bytarikesen81
+Size (KB): 170
+URL: https://github.com/bytarikesen81/PulsarCPU
+Description: A 3-step pipelined CPU based on RISC-V architecture.
+Repo-Count: 442
+
+Name: ARM-Architecture
+Owner: AtaberkOKLU
+Size (KB): 20432
+URL: https://github.com/AtaberkOKLU/ARM-Architecture
+Description: ARM based Low Power MicroController Implementation on FPGA platforms using Verilog
+Repo-Count: 443
+
+Name: Lab-Workshop-on-FPGA-Architecture-and-Programming-using-Verilog-HDL
+Owner: abhilash306
+Size (KB): 4430
+URL: https://github.com/abhilash306/Lab-Workshop-on-FPGA-Architecture-and-Programming-using-Verilog-HDL
+Description: FPGA Prototyping using Xilinx IP: (February, 2023) -Hardware Implementation on Zybo Z7: Zynq-7000 ARM/FPGA SoC Development Board. -Digital Design with 4:1 Mux, Decoder, and Counter using IP Core and Virtual I/O, Verified via Chipscope IP Core.
+Repo-Count: 444
+
+Name: rocket88
+Owner: SlithyMatt
+Size (KB): 17996
+URL: https://github.com/SlithyMatt/rocket88
+Description: A New 8-Bit Architecture
+Repo-Count: 445
+
+Name: riscv-processor
+Owner: mmxsrup
+Size (KB): 54
+URL: https://github.com/mmxsrup/riscv-processor
+Description: RV32I Single Cycle Processor (CPU)
+Repo-Count: 446
+
+Name: vesp-alpha
+Owner: HoneyGol-Microsystems
+Size (KB): 810
+URL: https://github.com/HoneyGol-Microsystems/vesp-alpha
+Description: RISC-V based student processor for embedded applications.
+Repo-Count: 447
+
+Name: Custom_RISC_Implementation
+Owner: prithvi-narayan-bhat
+Size (KB): 76188
+URL: https://github.com/prithvi-narayan-bhat/Custom_RISC_Implementation
+Description: An attempt at making a customised RISC processor with five pipelined stages and supporting all RISC-V instruction set
+Repo-Count: 448
+
+Name: riscv
+Owner: RISC-V-on-FPGA
+Size (KB): 4650
+URL: https://github.com/RISC-V-on-FPGA/riscv
+Description: 32-bit 5-Stage RISC-V Processor for FPGA
+Repo-Count: 449
+
+Name: RISC-V-CPU
+Owner: lightcharm
+Size (KB): 180
+URL: https://github.com/lightcharm/RISC-V-CPU
+Description: processor with RISC-V architecture
+Repo-Count: 450
+
+Name: SurvivorCore
+Owner: njkrichardson
+Size (KB): 42
+URL: https://github.com/njkrichardson/SurvivorCore
+Description: Simple Arm and RISC-V processor implementations for use in the Apocalypse stack. 
+Repo-Count: 451
+
+Name: EduSoCRV
+Owner: alexmangushev
+Size (KB): 753
+URL: https://github.com/alexmangushev/EduSoCRV
+Description: Educational project for the development of a SoC based on a processor with RISC-V architecture
+Repo-Count: 452
+
+Name: meteor
+Owner: memdsl
+Size (KB): 285
+URL: https://github.com/memdsl/meteor
+Description: :computer: An open source risc-v processors. The goal is to quickly build a complete SoC that can be taped out by integrating other self-developed open source projects.
+Repo-Count: 453
+
+Name: Lexington
+Owner: GProCPU
+Size (KB): 1251
+URL: https://github.com/GProCPU/Lexington
+Description: The GPro 1 (Lexington) is the first generation of RISC-V processors designed by Gerber Prototyping
+Repo-Count: 454
+
+Name: riscv_proc
+Owner: johnrscott
+Size (KB): 162
+URL: https://github.com/johnrscott/riscv_proc
+Description: FPGA-based RISC-V processor
+Repo-Count: 455
+
+Name: rv32i-processor
+Owner: muhammed-celik
+Size (KB): 20
+URL: https://github.com/muhammed-celik/rv32i-processor
+Description: RISC-V 32I Based 5-stage Pipelined General Purpose Processor Implementation
+Repo-Count: 456
+
+Name: verilog_rv32i
+Owner: ZeHolyQofPower
+Size (KB): 1007
+URL: https://github.com/ZeHolyQofPower/verilog_rv32i
+Description: A Verilog implementation of a RISC-V Processor
+Repo-Count: 457
+
+Name: RISCV-Lite
+Owner: InsideFra
+Size (KB): 295
+URL: https://github.com/InsideFra/RISCV-Lite
+Description: A first implementation of a RISC V Processor
+Repo-Count: 458
+
+Name: PA-MIRI
+Owner: dreaqdp
+Size (KB): 596
+URL: https://github.com/dreaqdp/PA-MIRI
+Description: RISC-V processor implemented in System Verilog, for PA subject of MIRI (FIB)
+Repo-Count: 459
+
+Name: TDD.Single-Cycle_Processor
+Owner: JoseDavidSS
+Size (KB): 590
+URL: https://github.com/JoseDavidSS/TDD.Single-Cycle_Processor
+Description: Proyecto Final para el curso de Taller de Diseño Digital. La idea es hacer un procesador uniciclo para procesar un texto utilizando los lenguajes de programación ARM, Python y SystemVerilog.
+Repo-Count: 460
+
+Name: MIPS-CPU
+Owner: hakula139
+Size (KB): 3160
+URL: https://github.com/hakula139/MIPS-CPU
+Description: A MIPS processor with Cache and Advanced Branch Predictor written in SystemVerilog
+Repo-Count: 461
+
+Name: ELEC6234_Coursework_picoMIPS_processor
+Owner: HaosenYu
+Size (KB): 2132
+URL: https://github.com/HaosenYu/ELEC6234_Coursework_picoMIPS_processor
+Description: picoMIPS processor implementation
+Repo-Count: 462
+
+Name: picoMIPS
+Owner: AndyEveritt
+Size (KB): 724
+URL: https://github.com/AndyEveritt/picoMIPS
+Description: Small scale picoMIPS processor to perform affine transforms. For ELEC6234 University of Southampton
+Repo-Count: 463
+
+Name: MIPS-CPU-yikun
+Owner: ekonwang
+Size (KB): 3154
+URL: https://github.com/ekonwang/MIPS-CPU-yikun
+Description: A Developer version MIPS processor.
+Repo-Count: 464
+
+Name: MIPS-Single-Cycle-Implementation
+Owner: amirhossein-alizad
+Size (KB): 23
+URL: https://github.com/amirhossein-alizad/MIPS-Single-Cycle-Implementation
+Description: Single Cycle MIPS Processor implementation, Computer Assignment for Computer Architecture course in University of Tehran
+Repo-Count: 465
+
+Name: Mips-Processor
+Owner: jwredhead
+Size (KB): 29560
+URL: https://github.com/jwredhead/Mips-Processor
+Description: None
+Repo-Count: 466
+
+Name: 32b_MIPS_CPU
+Owner: Sash-github-account
+Size (KB): 214
+URL: https://github.com/Sash-github-account/32b_MIPS_CPU
+Description: Design and verification of 32 bit, 5 stage MIPS processor and implementation in de10Nano fpga
+Repo-Count: 467
+
+Name: MIPS-PipeLine-Implementation
+Owner: amirhossein-alizad
+Size (KB): 27
+URL: https://github.com/amirhossein-alizad/MIPS-PipeLine-Implementation
+Description: PipeLine Implementation of MIPS processor, a project for Computer Architecture course in University of Tehran
+Repo-Count: 468
+
+Name: 8bitproc
+Owner: djcopley
+Size (KB): 1533
+URL: https://github.com/djcopley/8bitproc
+Description: A simple 8 bit processor
+Repo-Count: 469
+
+Name: legv8
+Owner: KaseyHDL
+Size (KB): 25
+URL: https://github.com/KaseyHDL/legv8
+Description: Computer architecture based on a subset of the Arm®v8-A ISA.
+Repo-Count: 470
+
+Name: rv32i_cpu
+Owner: tuz358
+Size (KB): 35
+URL: https://github.com/tuz358/rv32i_cpu
+Description: simple systemverilog implementation of rv32i cpu to learn RISC-V architecture
+Repo-Count: 471
+
+Name: riscv_software_build
+Owner: jomonkjoy
+Size (KB): 14964
+URL: https://github.com/jomonkjoy/riscv_software_build
+Description: Compiling C code for the RISC-V RV32I architecture using a linker script 
+Repo-Count: 472
+

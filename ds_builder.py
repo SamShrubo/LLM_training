@@ -4,13 +4,15 @@ import os
 import json
 import time
 import sys
+import glob
 
 # read file into dataframe.csv
 def filetodf(readFolder, readFile, dataframeName="dataframe.csv"):
     # max character length of each entry
     max_length = 20000
-
-    if readFolder[-1] != "\\":
+    if readFolder == "":
+        filePath = readFile
+    elif readFolder[-1] != "\\":
         filePath = readFolder + "\\" + readFile
     else:
         filePath = readFolder + readFile
@@ -31,30 +33,25 @@ def filetodf(readFolder, readFile, dataframeName="dataframe.csv"):
         end_index = start_index + max_length
 
         newStructure = {'text' : [text[start_index:end_index]]}
+        loading(part + 1, parts)
 
-        if not (op.isfile(outFileName)):
-            # make dataframe with new data
-            print(f"Creating dataframe {outFileName}...")
-            df = pd.DataFrame(newStructure)
-            print(f"Updating {outFileName} with file...")
+        tempdf = pd.DataFrame(newStructure)
+        if os.path.exists(outFileName):
+            tempdf.to_csv("temp_df.csv", index=False)
+            chunk_size = 1000
+            for chunk in pd.read_csv('temp_df.csv', chunksize=chunk_size):
+                chunk.to_csv(outFileName, mode='a', header=False, index=False)
         else:
-            # read dataframe
-            df = pd.read_csv(outFileName)
-            # write new data
-            df = pd.concat([df, pd.DataFrame(newStructure)], ignore_index=True)
-            print(f"Updating {outFileName} with file...")
-        # update csv file
-        df.to_csv(outFileName, index=False)
-    
+            tempdf.to_csv(outFileName, index=False)
+
+    print(f"\nUpdated {outFileName} with file {readFile}.\n\n")
     return
 
 # delete the dataframe
 def deletedf(dfName="dataframe.csv"):
     open(dfName, "w")
     os.remove(dfName)
-    loading()
     print("\nDataframe cleared...")
-    time.sleep(1)
     return
 
 def parseJSON(nameJSON, dfName="dataframe.csv"):
@@ -62,16 +59,21 @@ def parseJSON(nameJSON, dfName="dataframe.csv"):
     df_code = pd.read_csv(dfName)
     # open output .json (this is the code from Shailja)
     print("Making JSON...")
+    total_rows = len(df_code['text'].values)
+    index = 0
     with open(nameJSON,'a') as f:
         for row in df_code['text'].values:
-            print("Adding row...")
+            #print("Adding row...")
             # adds dictionary
             dic={"text":str(row)}
             ob=json.dumps(dic)
             f.write(ob)
             f.write('\n')
+            loading(index+1, total_rows)
+            index += 1
+            
     f.close()
-    print(f"JSON Complete : written to {os.path.dirname(f'{nameJSON}.json')}...")
+    print(f"\n\nJSON Complete : written to {os.path.dirname(f'{nameJSON}.json')+nameJSON}...")
     # clear dataframe after use
     deleteit = input("Would you like to delete the old dataframe now?\n.\n.\n.\n(Y/N) >> ")
     if deleteit == "Y" or deleteit == "y":
@@ -80,16 +82,13 @@ def parseJSON(nameJSON, dfName="dataframe.csv"):
     return
 
 # gui loading animation
-def loading():
-    animation = "|/-\\"
-    start_time = time.time()
-    while True:
-        for i in range(4):
-            time.sleep(0.2)  # Feel free to experiment with the speed here
-            sys.stdout.write("\r" + animation[i % len(animation)])
-            sys.stdout.flush()
-        if time.time() - start_time > 1:  # The animation will last for 10 seconds
-            break
+def loading(current, total, length=30):
+    progress = current / total
+    bar_length = int(length * progress)
+    bar = "[" + "#" * bar_length + "-" * (length - bar_length) + "]"
+    # Display the progress bar with percentage
+    sys.stdout.write(f"\r{bar} {int(progress * 100)}%")
+    sys.stdout.flush()
 
 # start builder
 print("\n.\n.\n.\n**************\n**** HOME ****\n**************\n\nWelcome to the dataset builder")
@@ -109,7 +108,11 @@ while True:
 
         nameDF = input("What is the name/path of your dataframe?\n.\n.\n.\n(ex. .\\dataframe.csv)>> ")
         JSONname = input("What is/will be the name/path your JSON dataset?\n.\n.\n.\n(ex. .\\New_Dataset.json)>> ")
+        start_time = time.time()
         parseJSON(JSONname, nameDF)
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print(f"Completed in {elapsed_time} seconds")
 
     elif uin == "help" or uin == "HELP":
 
@@ -127,7 +130,7 @@ while True:
         dataframePath = input("What is your dataframe name/path (relative to the current directory)?\n.\n.\n.\n(ex. .\\dataframe.csv)>> ")
         while True:
             print("\n.\n.\n.\n***************************\n**** DATAFRAME BUILDER ****\n***************************\n")
-            uin2 = input("What would you like to do?\nCommands (case sensitive):\nh : return home\nnf : read new file into dataframe\nraf : read all files in directory into dataframe\nnd : change directory path\ncdf : change dataframe path\nq : quit\n.\n.\n.\n>> ")
+            uin2 = input("What would you like to do?\nCommands (case sensitive):\nh : return home\nnf : read new file into dataframe\nraf : recursively read all files in directory into dataframe\nnd : change directory path\ncdf : change dataframe path\nq : quit\n.\n.\n.\n>> ")
             
             if uin2 == "q":
 
@@ -142,12 +145,32 @@ while True:
                 
             elif uin2 == "raf":
 
-                for fileNames in os.listdir(folderPath):
-                    # skip any directories
-                    if os.path.isdir(fileNames):
-                        continue
-                    
-                    filetodf(folderPath, fileNames, dataframePath)
+                isRecurr = input("Do you need to read recursively (i.e. reading through subdirectories within the parent)?\n.\n.\n.\n(Y/N)>> ")
+                if isRecurr == "Y" or isRecurr == "y":
+                    specificFile = input("Are you looking for any specific file types (i.e. *.txt, *.py, etc)?\n.\n.\n.\n(Y/N)>> ")
+                    if specificFile == "Y" or specificFile == "y":
+                        fileTypes = input("Enter however many file types you want separated by spaces\n.\n.\n.\n(ex. '*.txt *.v *.csv')>> ")
+                        time_elapsed_start = time.time()
+                        typeList = fileTypes.split(" ")
+                        for ftype in typeList:
+                            for ifile in glob.glob(os.path.join(folderPath, '**', f'{ftype}'), recursive=True):
+                                print(f"Reading {ifile} into dataset...")
+                                filetodf("", ifile, dataframePath)
+                        time_elapsed_end = time.time()
+                        time_elapsed = time_elapsed_end - time_elapsed_start
+                        print(f"Competed in {time_elapsed} seconds")
+                    else:
+                        print("d")
+
+
+                else:
+                    for fileNames in os.listdir(folderPath):
+                        # skip any directories
+                        if os.path.isdir(fileNames):
+                            continue
+                        
+                        filetodf(folderPath, fileNames, dataframePath)
+
 
                 print(f"{os.path.relpath(dataframePath)} updated successfully...")
             elif uin2 == "nd":
@@ -167,7 +190,6 @@ while True:
                 break
             else:
                 print("Invalid Input...")
-
 
     else:
         print("Invalid input...\n.\n.\n.\n**************\n**** HOME ****\n**************\n\n")
